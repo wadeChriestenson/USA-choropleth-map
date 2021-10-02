@@ -1,0 +1,3109 @@
+county_name,fips,tot_pop,uep
+"Autauga, Alabama",01001,54509,3.6
+"Baldwin, Alabama",01003,206023,3.6
+"Barbour, Alabama",01005,25469,5.1
+"Bibb, Alabama",01007,22112,3.9
+"Blount, Alabama",01009,57144,3.5
+"Bullock, Alabama",01011,10333,4.6
+"Butler, Alabama",01013,19869,4.7
+"Calhoun, Alabama",01015,113469,4.6
+"Chambers, Alabama",01017,33558,3.8
+"Cherokee, Alabama",01019,25572,3.5
+"Chilton, Alabama",01021,43484,3.6
+"Choctaw, Alabama",01023,12958,5.4
+"Clarke, Alabama",01025,24214,7.4
+"Clay, Alabama",01027,13272,3.8
+"Cleburne, Alabama",01029,14868,4.2
+"Coffee, Alabama",01031,50870,3.9
+"Colbert, Alabama",01033,53979,4.5
+"Conecuh, Alabama",01035,12373,5.1
+"Coosa, Alabama",01037,10774,4.1
+"Covington, Alabama",01039,36946,4.5
+"Crenshaw, Alabama",01041,13749,4
+"Cullman, Alabama",01043,81759,3.2
+"Dale, Alabama",01045,48567,4.1
+"Dallas, Alabama",01047,39276,6.4
+"DeKalb, Alabama",01049,70262,3.8
+"Elmore, Alabama",01051,80312,3.4
+"Escambia, Alabama",01053,36865,4.5
+"Etowah, Alabama",01055,101901,4
+"Fayette, Alabama",01057,16372,4
+"Franklin, Alabama",01059,31225,3.7
+"Geneva, Alabama",01061,26204,3.9
+"Greene, Alabama",01063,8319,6.6
+"Hale, Alabama",01065,14716,5
+"Henry, Alabama",01067,16990,4.4
+"Houston, Alabama",01069,103111,4
+"Jackson, Alabama",01071,51318,4
+"Jefferson, Alabama",01073,651278,3.7
+"Lamar, Alabama",01075,13816,3.7
+"Lauderdale, Alabama",01077,91668,4.1
+"Lawrence, Alabama",01079,32847,4.1
+"Lee, Alabama",01081,157620,3.6
+"Limestone, Alabama",01083,92111,3.5
+"Lowndes, Alabama",01085,10137,7.2
+"Macon, Alabama",01087,18898,5.3
+"Madison, Alabama",01089,353676,3.4
+"Marengo, Alabama",01091,19354,4.9
+"Marion, Alabama",01093,29747,4
+"Marshall, Alabama",01095,93916,3.3
+"Mobile, Alabama",01097,409327,4.6
+"Monroe, Alabama",01099,21174,6
+"Montgomery, Alabama",01101,224483,3.9
+"Morgan, Alabama",01103,117789,3.4
+"Perry, Alabama",01105,9486,6.4
+"Pickens, Alabama",01107,20071,4.5
+"Pike, Alabama",01109,32831,4.5
+"Randolph, Alabama",01111,22335,4
+"Russell, Alabama",01113,57465,4
+"St. Clair, Alabama",01115,86480,3.4
+"Shelby, Alabama",01117,208700,2.8
+"Sumter, Alabama",01119,12903,5.7
+"Talladega, Alabama",01121,79751,4.2
+"Tallapoosa, Alabama",01123,40151,4.1
+"Tuscaloosa, Alabama",01125,203806,3.6
+"Walker, Alabama",01127,63791,4.2
+"Washington, Alabama",01129,16538,5.7
+"Wilcox, Alabama",01131,10685,9.4
+"Winston, Alabama",01133,23704,4.1
+"Apache, Arizona",04001,70666,9.8
+"Cochise, Arizona",04003,124759,5.5
+"Coconino, Arizona",04005,138907,5.4
+"Gila, Arizona",04007,52960,5.7
+"Graham, Arizona",04009,37426,5
+"Greenlee, Arizona",04011,9300,4.1
+"La Paz, Arizona",04012,20497,6.1
+"Maricopa, Arizona",04013,4203415,4.1
+"Mohave, Arizona",04015,204536,5.6
+"Navajo, Arizona",04017,107122,7.6
+"Pima, Arizona",04019,1007876,4.4
+"Pinal, Arizona",04021,414701,4.9
+"Santa Cruz, Arizona",04023,45851,9.1
+"Yavapai, Arizona",04025,223104,4.4
+"Yuma, Arizona",04027,204595,16.7
+"Arkansas, Arkansas",05001,17936,3.3
+"Ashley, Arkansas",05003,20306,5.2
+"Baxter, Arkansas",05005,40835,4.1
+"Benton, Arkansas",05007,255356,2.9
+"Boone, Arkansas",05009,36742,3.5
+"Bradley, Arkansas",05011,10835,4.3
+"Calhoun, Arkansas",05013,5175,3.8
+"Carroll, Arkansas",05015,27639,3.2
+"Chicot, Arkansas",05017,10693,6.7
+"Clark, Arkansas",05019,22126,3.6
+"Clay, Arkansas",05021,14902,4.3
+"Cleburne, Arkansas",05023,24988,4.5
+"Cleveland, Arkansas",05025,8181,3.8
+"Columbia, Arkansas",05027,23582,4.7
+"Conway, Arkansas",05029,20674,4.3
+"Craighead, Arkansas",05031,104527,3
+"Crawford, Arkansas",05033,61735,3.5
+"Crittenden, Arkansas",05035,48206,4.3
+"Cross, Arkansas",05037,16730,4.1
+"Dallas, Arkansas",05039,7351,4.2
+"Desha, Arkansas",05041,11731,4.4
+"Drew, Arkansas",05043,18220,4.8
+"Faulkner, Arkansas",05045,121124,3.2
+"Franklin, Arkansas",05047,17456,3.5
+"Fulton, Arkansas",05049,11995,4
+"Garland, Arkansas",05051,97315,4
+"Grant, Arkansas",05053,17905,3.1
+"Greene, Arkansas",05055,44070,3.4
+"Hempstead, Arkansas",05057,21662,3.5
+"Hot Spring, Arkansas",05059,33068,3.7
+"Howard, Arkansas",05061,13271,3.4
+"Independence, Arkansas",05063,36949,4
+"Izard, Arkansas",05065,13407,5.4
+"Jackson, Arkansas",05067,17105,6
+"Jefferson, Arkansas",05069,69713,5.2
+"Johnson, Arkansas",05071,25978,4.5
+"Lafayette, Arkansas",05073,6884,5.1
+"Lawrence, Arkansas",05075,16537,3.9
+"Lee, Arkansas",05077,9256,4.8
+"Lincoln, Arkansas",05079,13584,4.2
+"Little River, Arkansas",05081,12297,5.2
+"Logan, Arkansas",05083,21485,4
+"Lonoke, Arkansas",05085,71243,3.1
+"Madison, Arkansas",05087,15847,2.9
+"Marion, Arkansas",05089,16252,4.1
+"Miller, Arkansas",05091,43174,4.8
+"Mississippi, Arkansas",05093,42145,5.6
+"Monroe, Arkansas",05095,7160,4.2
+"Montgomery, Arkansas",05097,8915,4.7
+"Nevada, Arkansas",05099,8371,3.4
+"Newton, Arkansas",05101,7843,3.3
+"Ouachita, Arkansas",05103,23842,4.5
+"Perry, Arkansas",05105,10127,4.1
+"Phillips, Arkansas",05107,18735,6
+"Pike, Arkansas",05109,10680,4
+"Poinsett, Arkansas",05111,23699,3.8
+"Polk, Arkansas",05113,20026,4.1
+"Pope, Arkansas",05115,62816,4.4
+"Prairie, Arkansas",05117,8149,3.8
+"Pulaski, Arkansas",05119,388491,3.4
+"Randolph, Arkansas",05121,17387,3.9
+"St. Francis, Arkansas",05123,26038,5
+"Saline, Arkansas",05125,116626,3
+"Scott, Arkansas",05127,10243,3.6
+"Searcy, Arkansas",05129,7839,4.3
+"Sebastian, Arkansas",05131,125540,3.5
+"Sevier, Arkansas",05133,16948,4.5
+"Sharp, Arkansas",05135,16962,4.7
+"Stone, Arkansas",05137,12353,4.5
+"Union, Arkansas",05139,39252,5.4
+"Van Buren, Arkansas",05141,16553,5.2
+"Washington, Arkansas",05143,224867,2.6
+"White, Arkansas",05145,77758,4.3
+"Woodruff, Arkansas",05147,6607,4.7
+"Yell, Arkansas",05149,21300,4.1
+"Alameda, California",06001,1625557,3.1
+"Alpine, California",06003,1138,4.6
+"Amador, California",06005,37524,4.1
+"Butte, California",06007,225108,5.1
+"Calaveras, California",06009,44944,4.1
+"Colusa, California",06011,21242,13.3
+"Contra Costa, California",06013,1121917,3.2
+"Del Norte, California",06015,26994,5.7
+"El Dorado, California",06017,185014,3.7
+"Fresno, California",06019,964182,7.6
+"Glenn, California",06021,27501,6.6
+"Humboldt, California",06023,134312,3.6
+"Imperial, California",06025,177168,18.9
+"Inyo, California",06027,17885,3.9
+"Kern, California",06029,870602,8.1
+"Kings, California",06031,148252,7.9
+"Lake, California",06033,63551,5.3
+"Lassen, California",06035,30813,4.8
+"Los Angeles, California",06037,9982227,4.7
+"Madera, California",06039,152969,7.1
+"Marin, California",06041,257923,2.4
+"Mariposa, California",06043,17400,5.4
+"Mendocino, California",06045,86449,4
+"Merced, California",06047,265686,8.4
+"Modoc, California",06049,8874,7.6
+"Mono, California",06051,13998,4.1
+"Monterey, California",06053,427668,6.4
+"Napa, California",06055,139378,3
+"Nevada, California",06057,98141,3.5
+"Orange, California",06059,3128984,3
+"Placer, California",06061,376627,3.2
+"Plumas, California",06063,18619,7.6
+"Riverside, California",06065,2354433,4.5
+"Sacramento, California",06067,1491493,3.9
+"San Benito, California",06069,58449,5.1
+"San Bernardino, California",06071,2107534,4.1
+"San Diego, California",06073,3261095,3.4
+"San Francisco, California",06075,860841,2.4
+"San Joaquin, California",06077,722181,6.1
+"San Luis Obispo, California",06079,279210,3
+"San Mateo, California",06081,758153,2.3
+"Santa Barbara, California",06083,438786,4
+"Santa Clara, California",06085,1900877,2.7
+"Santa Cruz, California",06087,270904,5
+"Shasta, California",06089,177154,5
+"Sierra, California",06091,2901,6.1
+"Siskiyou, California",06093,43120,6.8
+"Solano, California",06095,434247,4
+"Sonoma, California",06097,496731,2.8
+"Stanislaus, California",06099,531868,6.5
+"Sutter, California",06101,94582,7.7
+"Tehama, California",06103,62566,5.8
+"Trinity, California",06105,12741,5.8
+"Tulare, California",06107,453749,9.8
+"Tuolumne, California",06109,53660,4.7
+"Ventura, California",06111,838094,3.8
+"Yolo, California",06113,212721,4.3
+"Yuba, California",06115,74304,6.5
+"Adams, Colorado",08001,490348,3.3
+"Alamosa, Colorado",08003,16179,3.9
+"Arapahoe, Colorado",08005,628698,3.1
+"Archuleta, Colorado",08007,12836,3.3
+"Baca, Colorado",08009,3535,1.8
+"Bent, Colorado",08011,5787,3.1
+"Boulder, Colorado",08013,318101,2.7
+"Broomfield, Colorado",08014,65509,2.8
+"Chaffee, Colorado",08015,18982,2.6
+"Cheyenne, Colorado",08017,1960,1.8
+"Clear Creek, Colorado",08019,9332,2.9
+"Conejos, Colorado",08021,7998,4.1
+"Costilla, Colorado",08023,3632,4.3
+"Crowley, Colorado",08025,5600,4.2
+"Custer, Colorado",08027,4631,3.6
+"Delta, Colorado",08029,30117,3.9
+"Denver, Colorado",08031,684288,3.1
+"Dolores, Colorado",08033,1834,2.8
+"Douglas, Colorado",08035,325692,2.7
+"Eagle, Colorado",08037,53834,2.6
+"Elbert, Colorado",08039,25006,2.7
+"El Paso, Colorado",08041,679311,3.8
+"Fremont, Colorado",08043,46628,5
+"Garfield, Colorado",08045,57966,3.1
+"Gilpin, Colorado",08047,5817,2.4
+"Grand, Colorado",08049,14981,2.6
+"Gunnison, Colorado",08051,16354,2.4
+"Hinsdale, Colorado",08053,867,2.7
+"Huerfano, Colorado",08055,6565,6.4
+"Jackson, Colorado",08057,1276,2.6
+"Jefferson, Colorado",08059,564470,2.9
+"Kiowa, Colorado",08061,1430,1.8
+"Kit Carson, Colorado",08063,7539,2
+"Lake, Colorado",08065,7556,2.6
+"La Plata, Colorado",08067,54477,2.9
+"Larimer, Colorado",08069,334618,2.7
+"Las Animas, Colorado",08071,14050,4.5
+"Lincoln, Colorado",08073,5491,2.4
+"Logan, Colorado",08075,21409,2.7
+"Mesa, Colorado",08077,148308,3.9
+"Mineral, Colorado",08079,814,2.5
+"Moffat, Colorado",08081,12908,3.6
+"Montezuma, Colorado",08083,25662,4.6
+"Montrose, Colorado",08085,40876,3.6
+"Morgan, Colorado",08087,27955,2.8
+"Otero, Colorado",08089,18177,4.9
+"Ouray, Colorado",08091,4691,3.4
+"Park, Colorado",08093,17310,2.7
+"Phillips, Colorado",08095,4292,1.9
+"Pitkin, Colorado",08097,17754,3.7
+"Prowers, Colorado",08099,11861,3.2
+"Pueblo, Colorado",08101,162989,4.7
+"Rio Blanco, Colorado",08103,6372,4.1
+"Rio Grande, Colorado",08105,11285,4.8
+"Routt, Colorado",08107,24704,2.6
+"Saguache, Colorado",08109,6387,4.6
+"San Juan, Colorado",08111,544,2.9
+"San Miguel, Colorado",08113,7885,3.3
+"Sedgwick, Colorado",08115,2291,2.5
+"Summit, Colorado",08117,30165,2.1
+"Teller, Colorado",08119,23917,3.6
+"Washington, Colorado",08121,4803,2.4
+"Weld, Colorado",08123,291199,2.9
+"Yuma, Colorado",08125,9913,1.9
+"Fairfield, Connecticut",09001,934145,4
+"Hartford, Connecticut",09003,885634,4.3
+"Litchfield, Connecticut",09005,181569,3.9
+"Middlesex, Connecticut",09007,161754,3.5
+"New Haven, Connecticut",09009,851227,4.4
+"New London, Connecticut",09011,266544,4
+"Tolland, Connecticut",09013,150117,3.6
+"Windham, Connecticut",09015,115799,4.6
+"Kent, Delaware",10001,172647,4.2
+"New Castle, Delaware",10003,549898,3.7
+"Sussex, Delaware",10005,217106,3.8
+"District of Columbia, District of Columbia",11001,675182,5.7
+"Alachua, Florida",12001,260637,3.3
+"Baker, Florida",12003,27390,3.5
+"Bay, Florida",12005,180081,4.1
+"Bradford, Florida",12007,26816,3.4
+"Brevard, Florida",12009,571650,3.6
+"Broward, Florida",12011,1888071,3.4
+"Calhoun, Florida",12013,14353,4.3
+"Charlotte, Florida",12015,175798,4.1
+"Citrus, Florida",12017,142288,5.3
+"Clay, Florida",12019,205518,3.4
+"Collier, Florida",12021,360213,3.5
+"Columbia, Florida",12023,68193,3.8
+"DeSoto, Florida",12027,36141,4
+"Dixie, Florida",12029,16294,4.3
+"Duval, Florida",12031,911148,3.7
+"Escambia, Florida",12033,308183,3.6
+"Flagler, Florida",12035,106524,4.2
+"Franklin, Florida",12037,11678,3.5
+"Gadsden, Florida",12039,45679,4.6
+"Gilchrist, Florida",12041,17590,3.8
+"Glades, Florida",12043,13328,4
+"Gulf, Florida",12045,15953,4.5
+"Hamilton, Florida",12047,14157,4.2
+"Hardee, Florida",12049,27024,5.3
+"Hendry, Florida",12051,39680,6.2
+"Hernando, Florida",12053,181018,4.6
+"Highlands, Florida",12055,101453,4.9
+"Hillsborough, Florida",12057,1363065,3.5
+"Holmes, Florida",12059,19244,4
+"Indian River, Florida",12061,149759,4.4
+"Jackson, Florida",12063,47968,4.1
+"Jefferson, Florida",12065,13961,3.8
+"Lafayette, Florida",12067,8633,3.4
+"Lake, Florida",12069,331638,3.6
+"Lee, Florida",12071,711922,3.5
+"Leon, Florida",12073,284819,3.4
+"Levy, Florida",12075,39667,3.9
+"Liberty, Florida",12077,8273,4
+"Madison, Florida",12079,18381,4
+"Manatee, Florida",12081,370627,3.5
+"Marion, Florida",12083,345540,4.4
+"Martin, Florida",12085,156349,3.6
+"Miami-Dade, Florida",12086,2685410,3.6
+"Monroe, Florida",12087,75570,2.6
+"Nassau, Florida",12089,79737,3.3
+"Okaloosa, Florida",12091,197689,3
+"Okeechobee, Florida",12093,40068,3.8
+"Orange, Florida",12095,1306250,3.3
+"Osceola, Florida",12097,334506,3.7
+"Palm Beach, Florida",12099,1432025,3.6
+"Pasco, Florida",12101,505939,3.9
+"Pinellas, Florida",12103,949475,3.4
+"Polk, Florida",12105,661489,4.2
+"Putnam, Florida",12107,72042,4.9
+"St. Johns, Florida",12109,233528,2.9
+"St. Lucie, Florida",12111,302915,4.5
+"Santa Rosa, Florida",12113,168401,3.4
+"Sarasota, Florida",12115,409360,3.5
+"Seminole, Florida",12117,451215,3.3
+"Sumter, Florida",12119,120514,5.2
+"Suwannee, Florida",12121,43486,3.8
+"Taylor, Florida",12123,21779,3.9
+"Union, Florida",12125,15121,3.3
+"Volusia, Florida",12127,522036,3.8
+"Wakulla, Florida",12129,31646,3.2
+"Walton, Florida",12131,65024,3.2
+"Washington, Florida",12133,24336,3.9
+"Appling, Georgia",13001,18148,4.3
+"Atkinson, Georgia",13003,8159,3.5
+"Bacon, Georgia",13005,11075,3.8
+"Baker, Georgia",13007,3154,5.3
+"Baldwin, Georgia",13009,44816,4.9
+"Banks, Georgia",13011,18312,3.1
+"Barrow, Georgia",13013,75996,3.3
+"Bartow, Georgia",13015,102312,3.8
+"Ben Hill, Georgia",13017,16950,5.9
+"Berrien, Georgia",13019,18875,4.2
+"Bibb, Georgia",13021,151234,4.5
+"Bleckley, Georgia",13023,12669,5.8
+"Brantley, Georgia",13025,18374,4.5
+"Brooks, Georgia",13027,15539,3.9
+"Bryan, Georgia",13029,35397,3.4
+"Bulloch, Georgia",13031,74133,4.3
+"Burke, Georgia",13033,22221,6.1
+"Butts, Georgia",13035,23488,4.1
+"Calhoun, Georgia",13037,6405,4.2
+"Camden, Georgia",13039,51833,4.2
+"Candler, Georgia",13043,10697,3.4
+"Carroll, Georgia",13045,114614,4
+"Catoosa, Georgia",13047,65736,3.4
+"Charlton, Georgia",13049,12948,4.3
+"Chatham, Georgia",13051,283038,3.7
+"Chattahoochee, Georgia",13053,10521,5.5
+"Chattooga, Georgia",13055,24596,4.1
+"Cherokee, Georgia",13057,238772,3.1
+"Clarke, Georgia",13059,123151,4
+"Clay, Georgia",13061,2977,7.5
+"Clayton, Georgia",13063,274249,4.9
+"Clinch, Georgia",13065,6657,4.5
+"Cobb, Georgia",13067,735793,3.4
+"Coffee, Georgia",13069,42444,4.5
+"Colquitt, Georgia",13071,44942,3.7
+"Columbia, Georgia",13073,144986,3.5
+"Cook, Georgia",13075,16857,3.8
+"Coweta, Georgia",13077,138775,3.4
+"Crawford, Georgia",13079,12166,4.1
+"Crisp, Georgia",13081,22660,4.8
+"Dade, Georgia",13083,16040,3.6
+"Dawson, Georgia",13085,23694,3.3
+"Decatur, Georgia",13087,26546,4.7
+"DeKalb, Georgia",13089,734063,4
+"Dodge, Georgia",13091,20767,5.2
+"Dooly, Georgia",13093,13807,4.7
+"Dougherty, Georgia",13095,89660,5.4
+"Douglas, Georgia",13097,140048,4.1
+"Early, Georgia",13099,10276,4.6
+"Echols, Georgia",13101,3983,3.2
+"Effingham, Georgia",13103,57628,3.3
+"Elbert, Georgia",13105,19058,4.8
+"Emanuel, Georgia",13107,22109,5.9
+"Evans, Georgia",13109,10628,3.7
+"Fannin, Georgia",13111,24679,4
+"Fayette, Georgia",13113,110633,3.5
+"Floyd, Georgia",13115,95766,4.3
+"Forsyth, Georgia",13117,217491,3.2
+"Franklin, Georgia",13119,22270,3.8
+"Fulton, Georgia",13121,1009519,4
+"Gilmer, Georgia",13123,29602,4.2
+"Glascock, Georgia",13125,3001,4.1
+"Glynn, Georgia",13127,82897,3.7
+"Gordon, Georgia",13129,56128,3.8
+"Grady, Georgia",13131,24651,3.8
+"Greene, Georgia",13133,16857,4.3
+"Gwinnett, Georgia",13135,891437,3.5
+"Habersham, Georgia",13137,43834,3.7
+"Hall, Georgia",13139,193658,3.2
+"Hancock, Georgia",13141,8525,5.9
+"Haralson, Georgia",13143,28734,3.8
+"Harris, Georgia",13145,33349,3.4
+"Hart, Georgia",13147,25328,3.6
+"Heard, Georgia",13149,11511,3.9
+"Henry, Georgia",13151,219456,4.1
+"Houston, Georgia",13153,149459,4
+"Irwin, Georgia",13155,9193,5.6
+"Jackson, Georgia",13157,65170,3.1
+"Jasper, Georgia",13159,13667,3.5
+"Jeff Davis, Georgia",13161,14699,4.8
+"Jefferson, Georgia",13163,15472,5.3
+"Jenkins, Georgia",13165,8667,5.3
+"Johnson, Georgia",13167,9653,3.9
+"Jones, Georgia",13169,28213,3.6
+"Lamar, Georgia",13171,18291,4.6
+"Lanier, Georgia",13173,10227,4.5
+"Laurens, Georgia",13175,46871,4.8
+"Lee, Georgia",13177,29040,3.6
+"Liberty, Georgia",13179,60718,4.3
+"Lincoln, Georgia",13181,7733,4.9
+"Long, Georgia",13183,17908,3.9
+"Lowndes, Georgia",13185,113110,4.1
+"Lumpkin, Georgia",13187,31684,3.6
+"McDuffie, Georgia",13189,21286,5.6
+"McIntosh, Georgia",13191,13967,4
+"Macon, Georgia",13193,13388,6.2
+"Madison, Georgia",13195,28513,3.5
+"Marion, Georgia",13197,8430,5.2
+"Meriwether, Georgia",13199,20936,5
+"Miller, Georgia",13201,5779,3.7
+"Mitchell, Georgia",13205,22283,5.4
+"Monroe, Georgia",13207,26742,3.6
+"Montgomery, Georgia",13209,8932,5.7
+"Morgan, Georgia",13211,18161,3.6
+"Murray, Georgia",13213,39044,5.3
+"Muscogee, Georgia",13215,193758,5.1
+"Newton, Georgia",13217,105187,4.5
+"Oconee, Georgia",13219,36521,2.9
+"Oglethorpe, Georgia",13221,14598,3.7
+"Paulding, Georgia",13223,154100,3.4
+"Peach, Georgia",13225,26846,5.2
+"Pickens, Georgia",13227,30596,3.5
+"Pierce, Georgia",13229,18857,3.8
+"Pike, Georgia",13231,17947,3.6
+"Polk, Georgia",13233,41050,4.2
+"Pulaski, Georgia",13235,11232,4.4
+"Putnam, Georgia",13237,21314,5
+"Quitman, Georgia",13239,2236,5.6
+"Rabun, Georgia",13241,16299,4
+"Randolph, Georgia",13243,6983,5.6
+"Richmond, Georgia",13245,198485,5.2
+"Rockdale, Georgia",13247,88006,4.4
+"Schley, Georgia",13249,5176,4.6
+"Screven, Georgia",13251,13798,5.4
+"Seminole, Georgia",13253,8358,5.3
+"Spalding, Georgia",13255,63889,4.7
+"Stephens, Georgia",13257,25455,4.6
+"Stewart, Georgia",13259,6037,4.8
+"Sumter, Georgia",13261,30006,5.9
+"Talbot, Georgia",13263,6349,5
+"Taliaferro, Georgia",13265,1648,5.3
+"Tattnall, Georgia",13267,25152,4.2
+"Taylor, Georgia",13269,8157,6.5
+"Telfair, Georgia",13271,15909,6.7
+"Terrell, Georgia",13273,8768,6.7
+"Thomas, Georgia",13275,44128,4.7
+"Tift, Georgia",13277,39731,4
+"Toombs, Georgia",13279,26675,5.8
+"Towns, Georgia",13281,11233,5.6
+"Treutlen, Georgia",13283,6672,5.8
+"Troup, Georgia",13285,68795,3.7
+"Turner, Georgia",13287,7929,5
+"Twiggs, Georgia",13289,8210,5.9
+"Union, Georgia",13291,22586,3.7
+"Upson, Georgia",13293,25936,4.4
+"Walker, Georgia",13295,68017,3.8
+"Walton, Georgia",13297,89013,3.6
+"Ware, Georgia",13299,35213,3.9
+"Warren, Georgia",13301,5292,4.9
+"Washington, Georgia",13303,20187,5
+"Wayne, Georgia",13305,29400,4.6
+"Webster, Georgia",13307,2600,6.2
+"Wheeler, Georgia",13309,7907,7.3
+"White, Georgia",13311,28568,3
+"Whitfield, Georgia",13313,102398,4.8
+"Wilcox, Georgia",13315,8814,5.2
+"Wilkes, Georgia",13317,9772,4.6
+"Wilkinson, Georgia",13319,8980,4.4
+"Worth, Georgia",13321,20402,4.4
+"Ada, Idaho",16001,442005,2.5
+"Adams, Idaho",16003,3978,5.5
+"Bannock, Idaho",16005,83763,2.8
+"Bear Lake, Idaho",16007,5882,2.9
+"Benewah, Idaho",16009,9014,4.7
+"Bingham, Idaho",16011,44855,2.8
+"Blaine, Idaho",16013,21761,2.4
+"Boise, Idaho",16015,7121,4.3
+"Bonner, Idaho",16017,42357,4.2
+"Bonneville, Idaho",16019,110644,2.5
+"Boundary, Idaho",16021,11443,4.5
+"Butte, Idaho",16023,2584,3.3
+"Camas, Idaho",16025,877,2.3
+"Canyon, Idaho",16027,209321,3.2
+"Caribou, Idaho",16029,6804,2.8
+"Cassia, Idaho",16031,23271,2.3
+"Clark, Idaho",16033,1048,2.9
+"Clearwater, Idaho",16035,8586,6.9
+"Custer, Idaho",16037,4105,4.2
+"Elmore, Idaho",16039,26068,3.3
+"Franklin, Idaho",16041,13130,2.2
+"Fremont, Idaho",16043,12881,2.5
+"Gem, Idaho",16045,16868,3.5
+"Gooding, Idaho",16047,15041,2.4
+"Idaho, Idaho",16049,16192,4.7
+"Jefferson, Idaho",16051,27552,2.3
+"Jerome, Idaho",16053,22907,2.6
+"Kootenai, Idaho",16055,152186,3.6
+"Latah, Idaho",16057,38902,2.5
+"Lemhi, Idaho",16059,7718,4.5
+"Lewis, Idaho",16061,3819,5.7
+"Lincoln, Idaho",16063,5267,3.5
+"Madison, Idaho",16065,37635,1.8
+"Minidoka, Idaho",16067,20317,2.5
+"Nez Perce, Idaho",16069,39584,2.8
+"Oneida, Idaho",16071,4249,2.2
+"Owyhee, Idaho",16073,11334,3.7
+"Payette, Idaho",16075,22687,3.7
+"Power, Idaho",16077,7556,3
+"Shoshone, Idaho",16079,12347,5.9
+"Teton, Idaho",16081,10887,2.3
+"Twin Falls, Idaho",16083,82142,2.7
+"Valley, Idaho",16085,10162,3.8
+"Washington, Idaho",16087,9902,4.2
+"Adams, Illinois",17001,65627,3.8
+"Alexander, Illinois",17003,6452,8
+"Bond, Illinois",17005,16605,4.3
+"Boone, Illinois",17007,53053,5.6
+"Brown, Illinois",17009,6578,2.6
+"Bureau, Illinois",17011,33008,4.9
+"Calhoun, Illinois",17013,4833,5.2
+"Carroll, Illinois",17015,14414,4.4
+"Cass, Illinois",17017,12554,4.4
+"Champaign, Illinois",17019,207189,4.2
+"Christian, Illinois",17021,33049,5.1
+"Clark, Illinois",17023,15663,5.1
+"Clay, Illinois",17025,13189,5.1
+"Clinton, Illinois",17027,37223,3.5
+"Coles, Illinois",17029,51152,4.6
+"Cook, Illinois",17031,5160114,4.1
+"Crawford, Illinois",17033,18882,5.2
+"Cumberland, Illinois",17035,10734,3.9
+"DeKalb, Illinois",17037,103223,4.3
+"De Witt, Illinois",17039,15893,5
+"Douglas, Illinois",17041,19388,4
+"DuPage, Illinois",17043,921820,3.2
+"Edgar, Illinois",17045,17288,4.6
+"Edwards, Illinois",17047,6420,4.4
+"Effingham, Illinois",17049,33808,3.7
+"Fayette, Illinois",17051,21440,5.1
+"Ford, Illinois",17053,13273,4.6
+"Franklin, Illinois",17055,38783,6.1
+"Fulton, Illinois",17057,35199,6.1
+"Gallatin, Illinois",17059,5112,5.6
+"Greene, Illinois",17061,13043,4.8
+"Grundy, Illinois",17063,49935,4.8
+"Hamilton, Illinois",17065,8129,4.3
+"Hancock, Illinois",17067,17967,4.6
+"Hardin, Illinois",17069,3976,7.6
+"Henderson, Illinois",17071,6827,4.9
+"Henry, Illinois",17073,48957,4.9
+"Iroquois, Illinois",17075,27905,4.3
+"Jackson, Illinois",17077,57887,4.5
+"Jasper, Illinois",17079,9471,4.9
+"Jefferson, Illinois",17081,37631,5.2
+"Jersey, Illinois",17083,21941,4.8
+"Jo Daviess, Illinois",17085,21692,4.3
+"Johnson, Illinois",17087,12439,7.4
+"Kane, Illinois",17089,524186,4.8
+"Kankakee, Illinois",17091,109843,5.4
+"Kendall, Illinois",17093,123007,3.6
+"Knox, Illinois",17095,50507,5.2
+"Lake, Illinois",17097,695756,4.4
+"La Salle, Illinois",17099,109278,5.7
+"Lawrence, Illinois",17101,16015,5.7
+"Lee, Illinois",17103,34143,4.3
+"Livingston, Illinois",17105,35937,4.3
+"Logan, Illinois",17107,28899,4.6
+"McDonough, Illinois",17109,30620,4.9
+"McHenry, Illinois",17111,304903,3.6
+"McLean, Illinois",17113,171228,4.1
+"Macon, Illinois",17115,105347,5.5
+"Macoupin, Illinois",17117,45246,4.8
+"Madison, Illinois",17119,262586,4.4
+"Marion, Illinois",17121,37618,4.8
+"Marshall, Illinois",17123,11597,5.1
+"Mason, Illinois",17125,13681,5.8
+"Massac, Illinois",17127,14320,6.9
+"Menard, Illinois",17129,12190,4
+"Mercer, Illinois",17131,15579,5.1
+"Monroe, Illinois",17133,33548,3.4
+"Montgomery, Illinois",17135,28699,5.8
+"Morgan, Illinois",17137,34105,4.3
+"Moultrie, Illinois",17139,14541,3.8
+"Ogle, Illinois",17141,50695,4.9
+"Peoria, Illinois",17143,181871,5.5
+"Perry, Illinois",17145,21130,5.8
+"Piatt, Illinois",17147,16219,4.1
+"Pike, Illinois",17149,15564,4.7
+"Pope, Illinois",17151,4229,5.8
+"Pulaski, Illinois",17153,5536,7.9
+"Putnam, Illinois",17155,5675,5.2
+"Randolph, Illinois",17157,32222,4.3
+"Richland, Illinois",17159,15752,4.6
+"Rock Island, Illinois",17161,143409,5.1
+"St. Clair, Illinois",17163,260116,5
+"Saline, Illinois",17165,23909,6.4
+"Sangamon, Illinois",17167,195617,4.3
+"Schuyler, Illinois",17169,6972,4.3
+"Scott, Illinois",17171,4981,5.1
+"Shelby, Illinois",17173,21612,4.2
+"Stark, Illinois",17175,5425,6.1
+"Stephenson, Illinois",17177,45105,4.6
+"Tazewell, Illinois",17179,132396,4.8
+"Union, Illinois",17181,16894,6.3
+"Vermilion, Illinois",17183,77449,6
+"Wabash, Illinois",17185,11501,4.5
+"Warren, Illinois",17187,17186,4.1
+"Washington, Illinois",17189,14009,2.9
+"Wayne, Illinois",17191,16255,5.5
+"White, Illinois",17193,13935,4.1
+"Whiteside, Illinois",17195,55897,4.4
+"Will, Illinois",17197,680813,4.1
+"Williamson, Illinois",17199,66646,5
+"Winnebago, Illinois",17201,282851,5.6
+"Woodford, Illinois",17203,38396,4
+"Adams, Indiana",18001,34537,2.6
+"Allen, Indiana",18003,364779,3.2
+"Bartholomew, Indiana",18005,81025,2.7
+"Benton, Indiana",18007,8567,3.3
+"Blackford, Indiana",18009,11949,3.9
+"Boone, Indiana",18011,63486,2.7
+"Brown, Indiana",18013,14902,3.2
+"Carroll, Indiana",18015,19795,3.3
+"Cass, Indiana",18017,37702,3.7
+"Clark, Indiana",18019,114221,3.5
+"Clay, Indiana",18021,26014,4
+"Clinton, Indiana",18023,31816,2.9
+"Crawford, Indiana",18025,10446,4.5
+"Daviess, Indiana",18027,32417,2.8
+"Dearborn, Indiana",18029,49170,3.7
+"Decatur, Indiana",18031,26432,3
+"DeKalb, Indiana",18033,42366,2.9
+"Delaware, Indiana",18035,114449,4.1
+"Dubois, Indiana",18037,41832,2.5
+"Elkhart, Indiana",18039,200525,2.6
+"Fayette, Indiana",18041,22980,4.7
+"Floyd, Indiana",18043,75918,3.3
+"Fountain, Indiana",18045,16314,3.7
+"Franklin, Indiana",18047,22595,3.8
+"Fulton, Indiana",18049,19994,3.4
+"Gibson, Indiana",18051,33167,2.7
+"Grant, Indiana",18053,66400,3.9
+"Greene, Indiana",18055,31970,4.5
+"Hamilton, Indiana",18057,312657,2.7
+"Hancock, Indiana",18059,73120,3.1
+"Harrison, Indiana",18061,39299,3.5
+"Hendricks, Indiana",18063,159099,2.9
+"Henry, Indiana",18065,48050,3.6
+"Howard, Indiana",18067,81663,4.1
+"Huntington, Indiana",18069,35826,3.6
+"Jackson, Indiana",18071,43332,2.9
+"Jasper, Indiana",18073,33010,4
+"Jay, Indiana",18075,20736,3.4
+"Jefferson, Indiana",18077,31646,3.5
+"Jennings, Indiana",18079,27458,3.7
+"Johnson, Indiana",18081,149929,2.9
+"Knox, Indiana",18083,36987,3.2
+"Kosciusko, Indiana",18085,77622,2.7
+"LaGrange, Indiana",18087,38428,2.5
+"Lake, Indiana",18089,480708,5
+"LaPorte, Indiana",18091,109321,4.4
+"Lawrence, Indiana",18093,44960,3.9
+"Madison, Indiana",18095,128021,4
+"Marion, Indiana",18097,932176,3.6
+"Marshall, Indiana",18099,46187,3.2
+"Martin, Indiana",18101,10116,2.8
+"Miami, Indiana",18103,35556,4.1
+"Monroe, Indiana",18105,144029,3.7
+"Montgomery, Indiana",18107,37796,3.1
+"Morgan, Indiana",18109,69071,3.4
+"Newton, Indiana",18111,13846,4.4
+"Noble, Indiana",18113,46793,3
+"Ohio, Indiana",18115,5838,3.6
+"Orange, Indiana",18117,19307,4
+"Owen, Indiana",18119,20717,4.4
+"Parke, Indiana",18121,16847,4.1
+"Perry, Indiana",18123,18912,3.7
+"Pike, Indiana",18125,12247,3.5
+"Porter, Indiana",18127,166551,3.9
+"Posey, Indiana",18129,25307,2.9
+"Pulaski, Indiana",18131,12547,3.1
+"Putnam, Indiana",18133,37247,3.8
+"Randolph, Indiana",18135,24696,4
+"Ripley, Indiana",18137,28101,3.6
+"Rush, Indiana",18139,16532,2.9
+"St. Joseph, Indiana",18141,265645,3.6
+"Scott, Indiana",18143,23524,3.9
+"Shelby, Indiana",18145,43904,3.2
+"Spencer, Indiana",18147,20328,3.3
+"Starke, Indiana",18149,22643,4.4
+"Steuben, Indiana",18151,34075,2.7
+"Sullivan, Indiana",18153,20598,4.7
+"Switzerland, Indiana",18155,10531,3.9
+"Tippecanoe, Indiana",18157,186830,3.2
+"Tipton, Indiana",18159,15025,2.8
+"Union, Indiana",18161,7094,3.2
+"Vanderburgh, Indiana",18163,179433,3.2
+"Vermillion, Indiana",18165,15410,5.6
+"Vigo, Indiana",18167,106534,4.4
+"Wabash, Indiana",18169,31344,3.5
+"Warren, Indiana",18171,8202,3.3
+"Warrick, Indiana",18173,61521,3
+"Washington, Indiana",18175,27498,3.6
+"Wayne, Indiana",18177,66040,3.6
+"Wells, Indiana",18179,27595,2.9
+"White, Indiana",18181,23974,3.1
+"Whitley, Indiana",18183,33188,2.9
+"Adair, Iowa",19001,7100,2.4
+"Adams, Iowa",19003,3690,2
+"Allamakee, Iowa",19005,13719,3.2
+"Appanoose, Iowa",19007,12389,3.4
+"Audubon, Iowa",19009,5584,2.5
+"Benton, Iowa",19011,25339,2.8
+"Black Hawk, Iowa",19013,131281,2.9
+"Boone, Iowa",19015,26145,2.2
+"Bremer, Iowa",19017,24558,2.1
+"Buchanan, Iowa",19019,20873,2.6
+"Buena Vista, Iowa",19021,20040,2.2
+"Butler, Iowa",19023,14574,2.8
+"Calhoun, Iowa",19025,9667,2.6
+"Carroll, Iowa",19027,20167,1.9
+"Cass, Iowa",19029,13009,2.7
+"Cedar, Iowa",19031,18250,2.5
+"Cerro Gordo, Iowa",19033,42508,2.7
+"Cherokee, Iowa",19035,11296,2.2
+"Chickasaw, Iowa",19037,11920,2.8
+"Clarke, Iowa",19039,9129,2.9
+"Clay, Iowa",19041,16065,3.3
+"Clayton, Iowa",19043,17532,3.3
+"Clinton, Iowa",19045,46712,3.3
+"Crawford, Iowa",19047,16980,3.5
+"Dallas, Iowa",19049,82671,1.8
+"Davis, Iowa",19051,8705,2.8
+"Decatur, Iowa",19053,7966,2.3
+"Delaware, Iowa",19055,17093,2.1
+"Des Moines, Iowa",19057,39177,3.4
+"Dickinson, Iowa",19059,16857,3.3
+"Dubuque, Iowa",19061,95670,2.5
+"Emmet, Iowa",19063,9463,2.8
+"Fayette, Iowa",19065,19598,3.1
+"Floyd, Iowa",19067,15677,2.8
+"Franklin, Iowa",19069,10184,2.2
+"Fremont, Iowa",19071,6881,1.9
+"Greene, Iowa",19073,8935,2.3
+"Grundy, Iowa",19075,12202,2.6
+"Guthrie, Iowa",19077,10625,2.7
+"Hamilton, Iowa",19079,14946,2.8
+"Hancock, Iowa",19081,10812,2.4
+"Hardin, Iowa",19083,16906,2.9
+"Harrison, Iowa",19085,13998,2.3
+"Henry, Iowa",19087,19690,2.5
+"Howard, Iowa",19089,9101,2.6
+"Humboldt, Iowa",19091,9445,2.6
+"Ida, Iowa",19093,6848,2
+"Iowa, Iowa",19095,16103,2.1
+"Jackson, Iowa",19097,19123,2.9
+"Jasper, Iowa",19099,36518,2.7
+"Jefferson, Iowa",19101,17877,2.3
+"Johnson, Iowa",19103,144889,2
+"Jones, Iowa",19105,20377,3.1
+"Keokuk, Iowa",19107,10100,3
+"Kossuth, Iowa",19109,14882,2.1
+"Lee, Iowa",19111,34028,4.1
+"Linn, Iowa",19113,219738,2.9
+"Louisa, Iowa",19115,11078,2.7
+"Lucas, Iowa",19117,8497,2
+"Lyon, Iowa",19119,11595,1.6
+"Madison, Iowa",19121,15743,3.3
+"Mahaska, Iowa",19123,22019,2.6
+"Marion, Iowa",19125,32803,2.1
+"Marshall, Iowa",19127,39750,4.6
+"Mills, Iowa",19129,14837,2.2
+"Mitchell, Iowa",19131,10529,1.9
+"Monona, Iowa",19133,8701,2.8
+"Monroe, Iowa",19135,7724,3
+"Montgomery, Iowa",19137,10032,2.5
+"Muscatine, Iowa",19139,42412,2.7
+"O'Brien, Iowa",19141,13661,2
+"Osceola, Iowa",19143,6028,2
+"Page, Iowa",19145,15211,2.6
+"Palo Alto, Iowa",19147,8941,2.3
+"Plymouth, Iowa",19149,24749,2
+"Pocahontas, Iowa",19151,6835,1.9
+"Polk, Iowa",19153,467583,2.7
+"Pottawattamie, Iowa",19155,92460,2.4
+"Poweshiek, Iowa",19157,18478,2.4
+"Ringgold, Iowa",19159,4916,2.9
+"Sac, Iowa",19161,9733,2.4
+"Scott, Iowa",19163,170038,3
+"Shelby, Iowa",19165,11575,2.1
+"Sioux, Iowa",19167,34303,1.8
+"Story, Iowa",19169,96040,1.7
+"Tama, Iowa",19171,16848,3.1
+"Taylor, Iowa",19173,6155,2
+"Union, Iowa",19175,12263,3.7
+"Van Buren, Iowa",19177,7166,2.7
+"Wapello, Iowa",19179,34896,3.5
+"Warren, Iowa",19181,48762,2.4
+"Washington, Iowa",19183,21793,2.4
+"Wayne, Iowa",19185,6320,2.8
+"Webster, Iowa",19187,36310,3.4
+"Winnebago, Iowa",19189,10431,2.7
+"Winneshiek, Iowa",19191,20230,2.7
+"Woodbury, Iowa",19193,100990,2.6
+"Worth, Iowa",19195,7392,2.8
+"Wright, Iowa",19197,12635,2.7
+"Allen, Kansas",20001,12484,3.9
+"Anderson, Kansas",20003,7779,3.4
+"Atchison, Kansas",20005,16129,4.5
+"Barber, Kansas",20007,4685,2.5
+"Barton, Kansas",20009,26474,3.2
+"Bourbon, Kansas",20011,14442,4.1
+"Brown, Kansas",20013,9544,3
+"Butler, Kansas",20015,65819,3.4
+"Chase, Kansas",20017,2623,2.6
+"Chautauqua, Kansas",20019,3337,3.9
+"Cherokee, Kansas",20021,20156,3.7
+"Cheyenne, Kansas",20023,2654,2.3
+"Clark, Kansas",20025,2037,2.4
+"Clay, Kansas",20027,8075,3.1
+"Cloud, Kansas",20029,8921,3.4
+"Coffey, Kansas",20031,8191,4.6
+"Comanche, Kansas",20033,1778,2.4
+"Cowley, Kansas",20035,35137,3.3
+"Crawford, Kansas",20037,38560,3.9
+"Decatur, Kansas",20039,2849,2.9
+"Dickinson, Kansas",20041,18792,3.4
+"Doniphan, Kansas",20043,7624,3.5
+"Douglas, Kansas",20045,118012,3
+"Edwards, Kansas",20047,2911,2.3
+"Elk, Kansas",20049,2548,3.3
+"Ellis, Kansas",20051,28619,2.3
+"Ellsworth, Kansas",20053,6242,2.7
+"Finney, Kansas",20055,36290,2.4
+"Ford, Kansas",20057,33959,2.5
+"Franklin, Kansas",20059,25305,3.5
+"Geary, Kansas",20061,34046,4.6
+"Gove, Kansas",20063,2582,2.1
+"Graham, Kansas",20065,2506,3.1
+"Grant, Kansas",20067,7585,2.7
+"Gray, Kansas",20069,5952,2
+"Greeley, Kansas",20071,1196,2
+"Greenwood, Kansas",20073,6103,3.4
+"Hamilton, Kansas",20075,2580,1.9
+"Harper, Kansas",20077,5617,2.8
+"Harvey, Kansas",20079,34110,3.2
+"Haskell, Kansas",20081,3970,2.1
+"Hodgeman, Kansas",20083,1835,2.4
+"Jackson, Kansas",20085,13137,2.9
+"Jefferson, Kansas",20087,18626,3.2
+"Jewell, Kansas",20089,2864,2.7
+"Johnson, Kansas",20091,578804,2.8
+"Kearny, Kansas",20093,3881,2.3
+"Kingman, Kansas",20095,7383,3.2
+"Kiowa, Kansas",20097,2510,2.4
+"Labette, Kansas",20099,20053,3.9
+"Lane, Kansas",20101,1595,2.8
+"Leavenworth, Kansas",20103,79095,3.6
+"Lincoln, Kansas",20105,3067,2.4
+"Linn, Kansas",20107,9548,5.8
+"Logan, Kansas",20109,2771,2.1
+"Lyon, Kansas",20111,32907,3.5
+"McPherson, Kansas",20113,28383,2.5
+"Marion, Kansas",20115,11930,3.1
+"Marshall, Kansas",20117,9669,2.6
+"Meade, Kansas",20119,4207,2
+"Miami, Kansas",20121,32682,3.5
+"Mitchell, Kansas",20123,6099,2.2
+"Montgomery, Kansas",20125,32552,4.2
+"Morris, Kansas",20127,5518,2.7
+"Morton, Kansas",20129,2830,3.2
+"Nemaha, Kansas",20131,9979,2.3
+"Neosho, Kansas",20133,15853,4.8
+"Ness, Kansas",20135,2895,2.6
+"Norton, Kansas",20137,5449,2.1
+"Osage, Kansas",20139,15700,3.7
+"Osborne, Kansas",20141,3561,2.5
+"Ottawa, Kansas",20143,5868,2.8
+"Pawnee, Kansas",20145,6683,3.1
+"Phillips, Kansas",20147,5328,2.5
+"Pottawatomie, Kansas",20149,23253,2.7
+"Pratt, Kansas",20151,9487,2.7
+"Rawlins, Kansas",20153,2461,2
+"Reno, Kansas",20155,62433,3.5
+"Republic, Kansas",20157,4641,2.7
+"Rice, Kansas",20159,9644,2.9
+"Riley, Kansas",20161,74348,2.8
+"Rooks, Kansas",20163,5062,3.1
+"Rush, Kansas",20165,3065,2.7
+"Russell, Kansas",20167,6903,2.9
+"Saline, Kansas",20169,54027,3
+"Scott, Kansas",20171,4886,1.9
+"Sedgwick, Kansas",20173,505013,3.7
+"Seward, Kansas",20175,22291,3.2
+"Shawnee, Kansas",20177,176290,3.4
+"Sheridan, Kansas",20179,2455,2.2
+"Sherman, Kansas",20181,5899,2.7
+"Smith, Kansas",20183,3638,2.4
+"Stafford, Kansas",20185,4175,2.6
+"Stanton, Kansas",20187,2057,2.5
+"Stevens, Kansas",20189,5679,2.9
+"Sumner, Kansas",20191,22895,3.5
+"Thomas, Kansas",20193,7732,2.5
+"Trego, Kansas",20195,2858,3.1
+"Wabaunsee, Kansas",20197,6837,3.1
+"Wallace, Kansas",20199,1560,2.4
+"Washington, Kansas",20201,5470,2.6
+"Wichita, Kansas",20203,2113,2.1
+"Wilson, Kansas",20205,8651,4.3
+"Woodson, Kansas",20207,3130,4.3
+"Wyandotte, Kansas",20209,161697,4.8
+"Adair, Kentucky",21001,19124,5
+"Allen, Kentucky",21003,20572,3.8
+"Anderson, Kentucky",21005,21858,3.6
+"Ballard, Kentucky",21007,8002,7
+"Barren, Kentucky",21009,42878,4.4
+"Bath, Kentucky",21011,12084,6.8
+"Bell, Kentucky",21013,26812,6.3
+"Boone, Kentucky",21015,127851,3.4
+"Bourbon, Kentucky",21017,19868,4
+"Boyd, Kentucky",21019,47621,5.9
+"Boyle, Kentucky",21021,29689,4.4
+"Bracken, Kentucky",21023,8211,4.9
+"Breathitt, Kentucky",21025,12937,7.3
+"Breckinridge, Kentucky",21027,19762,5.4
+"Bullitt, Kentucky",21029,78712,4
+"Butler, Kentucky",21031,12616,4.9
+"Caldwell, Kentucky",21033,12580,4.8
+"Calloway, Kentucky",21035,38445,3.9
+"Campbell, Kentucky",21037,91297,3.3
+"Carlisle, Kentucky",21039,4808,5
+"Carroll, Kentucky",21041,10506,4.1
+"Carter, Kentucky",21043,26950,9.2
+"Casey, Kentucky",21045,15680,4.7
+"Christian, Kentucky",21047,71120,5.4
+"Clark, Kentucky",21049,35501,4.1
+"Clay, Kentucky",21051,20232,7
+"Clinton, Kentucky",21053,10106,5.5
+"Crittenden, Kentucky",21055,9035,5.1
+"Cumberland, Kentucky",21057,6609,4.5
+"Daviess, Kentucky",21059,98538,4
+"Edmonson, Kentucky",21061,12024,5.3
+"Elliott, Kentucky",21063,7439,9.4
+"Estill, Kentucky",21065,14118,5.4
+"Fayette, Kentucky",21067,314788,3.3
+"Fleming, Kentucky",21069,14323,5.5
+"Floyd, Kentucky",21071,36526,6.5
+"Franklin, Kentucky",21073,49782,3.7
+"Fulton, Kentucky",21075,6127,5.7
+"Gallatin, Kentucky",21077,8580,4.1
+"Garrard, Kentucky",21079,17123,4.5
+"Grant, Kentucky",21081,24591,4.3
+"Graves, Kentucky",21083,36836,5
+"Grayson, Kentucky",21085,25798,4.9
+"Green, Kentucky",21087,10883,4.2
+"Greenup, Kentucky",21089,35467,6.6
+"Hancock, Kentucky",21091,8602,4.2
+"Hardin, Kentucky",21093,106807,4.1
+"Harlan, Kentucky",21095,26872,7.3
+"Harrison, Kentucky",21097,18452,4.1
+"Hart, Kentucky",21099,18432,4
+"Henderson, Kentucky",21101,45687,3.8
+"Henry, Kentucky",21103,15651,3.8
+"Hickman, Kentucky",21105,4499,5.7
+"Hopkins, Kentucky",21107,45125,4.6
+"Jackson, Kentucky",21109,13148,7
+"Jefferson, Kentucky",21111,757300,4
+"Jessamine, Kentucky",21113,51774,3.6
+"Johnson, Kentucky",21115,22591,6.8
+"Kenton, Kentucky",21117,162250,3.4
+"Knott, Kentucky",21119,15364,6.8
+"Knox, Kentucky",21121,31166,6.3
+"Larue, Kentucky",21123,13959,4.5
+"Laurel, Kentucky",21125,59629,5.1
+"Lawrence, Kentucky",21127,15581,7.2
+"Lee, Kentucky",21129,6672,6.4
+"Leslie, Kentucky",21131,10284,7.1
+"Letcher, Kentucky",21133,22446,6.4
+"Lewis, Kentucky",21135,13305,8.3
+"Lincoln, Kentucky",21137,24188,5
+"Livingston, Kentucky",21139,9242,6.8
+"Logan, Kentucky",21141,26669,3.9
+"Lyon, Kentucky",21143,8150,5
+"McCracken, Kentucky",21145,64388,5.6
+"McCreary, Kentucky",21147,17426,6.3
+"McLean, Kentucky",21149,9214,5
+"Madison, Kentucky",21151,88490,3.9
+"Magoffin, Kentucky",21153,12451,12.9
+"Marion, Kentucky",21155,19107,3.8
+"Marshall, Kentucky",21157,30991,5.3
+"Martin, Kentucky",21159,11773,6.4
+"Mason, Kentucky",21161,17014,5.6
+"Meade, Kentucky",21163,28013,4.7
+"Menifee, Kentucky",21165,6308,7.6
+"Mercer, Kentucky",21167,21280,4.4
+"Metcalfe, Kentucky",21169,9879,4.2
+"Monroe, Kentucky",21171,10527,4.2
+"Montgomery, Kentucky",21173,27436,6
+"Morgan, Kentucky",21175,13195,6.4
+"Muhlenberg, Kentucky",21177,30692,6.7
+"Nelson, Kentucky",21179,44867,4.3
+"Nicholas, Kentucky",21181,6996,4.6
+"Ohio, Kentucky",21183,23794,5.7
+"Oldham, Kentucky",21185,64679,3.3
+"Owen, Kentucky",21187,10625,5
+"Owsley, Kentucky",21189,4417,7.4
+"Pendleton, Kentucky",21191,14308,4.1
+"Perry, Kentucky",21193,26624,6.3
+"Pike, Kentucky",21195,59962,5.9
+"Powell, Kentucky",21197,12217,6
+"Pulaski, Kentucky",21199,63420,5
+"Robertson, Kentucky",21201,2120,4.9
+"Rockcastle, Kentucky",21203,16689,5
+"Rowan, Kentucky",21205,24159,5.2
+"Russell, Kentucky",21207,17616,5.8
+"Scott, Kentucky",21209,52928,3.3
+"Shelby, Kentucky",21211,46317,3.5
+"Simpson, Kentucky",21213,17800,3.9
+"Spencer, Kentucky",21215,18061,3.6
+"Taylor, Kentucky",21217,25243,4.2
+"Todd, Kentucky",21219,12136,4
+"Trigg, Kentucky",21221,14194,4.8
+"Trimble, Kentucky",21223,8548,4.3
+"Union, Kentucky",21225,14639,5
+"Warren, Kentucky",21227,124722,3.7
+"Washington, Kentucky",21229,11951,3.7
+"Wayne, Kentucky",21231,20367,7
+"Webster, Kentucky",21233,12998,4.2
+"Whitley, Kentucky",21235,35592,5
+"Wolfe, Kentucky",21237,7174,7.7
+"Woodford, Kentucky",21239,25809,3.1
+"Acadia Parish, Louisiana",22001,61588,5.4
+"Allen Parish, Louisiana",22003,25354,5.7
+"Ascension Parish, Louisiana",22005,119572,4.1
+"Assumption Parish, Louisiana",22007,22483,6.6
+"Avoyelles Parish, Louisiana",22009,40442,5.7
+"Beauregard Parish, Louisiana",22011,36397,5.3
+"Bienville Parish, Louisiana",22013,13560,5.8
+"Bossier Parish, Louisiana",22015,124450,4.3
+"Caddo Parish, Louisiana",22017,245242,5.5
+"Calcasieu Parish, Louisiana",22019,197461,3.8
+"Caldwell Parish, Louisiana",22021,9945,5.7
+"Cameron Parish, Louisiana",22023,6816,3.5
+"Catahoula Parish, Louisiana",22025,9806,6.7
+"Claiborne Parish, Louisiana",22027,16004,5.2
+"Concordia Parish, Louisiana",22029,19787,6.9
+"De Soto Parish, Louisiana",22031,26954,5.7
+"East Baton Rouge Parish, Louisiana",22033,438734,4.3
+"East Carroll Parish, Louisiana",22035,7142,10.2
+"East Feliciana Parish, Louisiana",22037,19279,4.6
+"Evangeline Parish, Louisiana",22039,33196,5.7
+"Franklin Parish, Louisiana",22041,20097,7.2
+"Grant Parish, Louisiana",22043,22155,5.8
+"Iberia Parish, Louisiana",22045,71506,5.9
+"Iberville Parish, Louisiana",22047,32773,6.2
+"Jackson Parish, Louisiana",22049,15845,4.6
+"Jefferson Parish, Louisiana",22051,430053,4.4
+"Jefferson Davis Parish, Louisiana",22053,31178,4.7
+"Lafayette Parish, Louisiana",22055,236763,4.5
+"Lafourche Parish, Louisiana",22057,96993,4.7
+"La Salle Parish, Louisiana",22059,14648,4.3
+"Lincoln Parish, Louisiana",22061,46648,5.2
+"Livingston Parish, Louisiana",22063,136182,4
+"Madison Parish, Louisiana",22065,11279,8.3
+"Morehouse Parish, Louisiana",22067,25897,8.2
+"Natchitoches Parish, Louisiana",22069,38411,5.8
+"Orleans Parish, Louisiana",22071,385075,5
+"Ouachita Parish, Louisiana",22073,153862,5.1
+"Plaquemines Parish, Louisiana",22075,23168,4.6
+"Pointe Coupee Parish, Louisiana",22077,21992,5.4
+"Rapides Parish, Louisiana",22079,129813,5.3
+"Red River Parish, Louisiana",22081,8474,4.4
+"Richland Parish, Louisiana",22083,20338,6.2
+"Sabine Parish, Louisiana",22085,23773,5.2
+"St. Bernard Parish, Louisiana",22087,45194,5
+"St. Charles Parish, Louisiana",22089,52266,4.4
+"St. Helena Parish, Louisiana",22091,10353,6.5
+"St. James Parish, Louisiana",22093,21138,6.2
+"St. John the Baptist Parish, Louisiana",22095,43012,5.7
+"St. Landry Parish, Louisiana",22097,82604,6.2
+"St. Martin Parish, Louisiana",22099,53059,5.2
+"St. Mary Parish, Louisiana",22101,51008,6.5
+"St. Tammany Parish, Louisiana",22103,249230,4.2
+"Tangipahoa Parish, Louisiana",22105,129020,5.5
+"Tensas Parish, Louisiana",22107,4549,7.7
+"Terrebonne Parish, Louisiana",22109,111284,5
+"Union Parish, Louisiana",22111,22252,5.6
+"Vermilion Parish, Louisiana",22113,59004,5.3
+"Vernon Parish, Louisiana",22115,50161,6.5
+"Washington Parish, Louisiana",22117,45990,5.8
+"Webster Parish, Louisiana",22119,39042,6.1
+"West Baton Rouge Parish, Louisiana",22121,25462,4.4
+"West Carroll Parish, Louisiana",22123,11083,9
+"West Feliciana Parish, Louisiana",22125,15232,3.9
+"Winn Parish, Louisiana",22127,14400,6.2
+"Androscoggin, Maine",23001,106172,3.2
+"Aroostook, Maine",23003,67620,4.6
+"Cumberland, Maine",23005,288504,2.6
+"Franklin, Maine",23007,29823,3.9
+"Hancock, Maine",23009,53866,3.7
+"Kennebec, Maine",23011,120216,3.1
+"Knox, Maine",23013,39424,3.1
+"Lincoln, Maine",23015,33810,3.2
+"Oxford, Maine",23017,56829,3.8
+"Penobscot, Maine",23019,150354,3.6
+"Piscataquis, Maine",23021,16752,4
+"Sagadahoc, Maine",23023,34960,2.6
+"Somerset, Maine",23025,50324,4.6
+"Waldo, Maine",23027,39113,3.4
+"Washington, Maine",23029,31442,4.8
+"York, Maine",23031,200957,2.9
+"Allegany, Maryland",24001,71362,5.5
+"Anne Arundel, Maryland",24003,561262,3.3
+"Baltimore, Maryland",24005,818759,4.1
+"Calvert, Maryland",24009,90393,3.6
+"Caroline, Maryland",24011,32595,3.8
+"Carroll, Maryland",24013,165956,3.2
+"Cecil, Maryland",24015,101652,4.4
+"Charles, Maryland",24017,155397,3.9
+"Dorchester, Maryland",24019,31853,5.2
+"Frederick, Maryland",24021,245551,3.5
+"Garrett, Maryland",24023,29152,4.8
+"Harford, Maryland",24025,247985,3.6
+"Howard, Maryland",24027,312017,3
+"Kent, Maryland",24029,19444,4.3
+"Montgomery, Maryland",24031,1028022,3.2
+"Prince George's, Maryland",24033,894994,4.1
+"Queen Anne's, Maryland",24035,48804,3.3
+"St. Mary's, Maryland",24037,110246,3.8
+"Somerset, Maryland",24039,25555,7
+"Talbot, Maryland",24041,36855,3.7
+"Washington, Maryland",24043,148308,4.4
+"Wicomico, Maryland",24045,101293,5.3
+"Worcester, Maryland",24047,51156,8.2
+"Baltimore city, Maryland",24510,607384,5.7
+"Barnstable, Massachusetts",25001,212243,4.3
+"Berkshire, Massachusetts",25003,126371,4.1
+"Bristol, Massachusetts",25005,553496,4.3
+"Dukes, Massachusetts",25007,17216,4.6
+"Essex, Massachusetts",25009,773026,3.4
+"Franklin, Massachusetts",25011,70283,3
+"Hampden, Massachusetts",25013,464515,4.6
+"Hampshire, Massachusetts",25015,160109,3
+"Middlesex, Massachusetts",25017,1578218,2.7
+"Nantucket, Massachusetts",25019,10920,4.4
+"Norfolk, Massachusetts",25021,691261,3
+"Plymouth, Massachusetts",25023,506694,3.5
+"Suffolk, Massachusetts",25025,782750,3
+"Worcester, Massachusetts",25027,814215,3.6
+"Alcona, Michigan",26001,10301,6.6
+"Alger, Michigan",26003,9148,7.9
+"Allegan, Michigan",26005,114033,3.3
+"Alpena, Michigan",26007,28338,5.1
+"Antrim, Michigan",26009,22978,5.7
+"Arenac, Michigan",26011,15022,7.1
+"Baraga, Michigan",26013,8450,6.1
+"Barry, Michigan",26015,59377,3.4
+"Bay, Michigan",26017,103834,4.8
+"Benzie, Michigan",26019,17359,5.5
+"Berrien, Michigan",26021,153133,4.3
+"Branch, Michigan",26023,43009,3.7
+"Calhoun, Michigan",26025,132832,4.2
+"Cass, Michigan",26027,51027,4.1
+"Charlevoix, Michigan",26029,26002,4.8
+"Cheboygan, Michigan",26031,25313,9.2
+"Chippewa, Michigan",26033,37330,6.7
+"Clare, Michigan",26035,30276,6.1
+"Clinton, Michigan",26037,77035,3.2
+"Crawford, Michigan",26039,13702,6
+"Delta, Michigan",26041,35906,5.3
+"Dickinson, Michigan",26043,25289,3.8
+"Eaton, Michigan",26045,107881,3.5
+"Emmet, Michigan",26047,32741,5.9
+"Genesee, Michigan",26049,404656,4.9
+"Gladwin, Michigan",26051,25010,5.7
+"Gogebic, Michigan",26053,15321,5.1
+"Grand Traverse, Michigan",26055,90814,3.7
+"Gratiot, Michigan",26057,40785,4.7
+"Hillsdale, Michigan",26059,45146,4
+"Houghton, Michigan",26061,36003,5.1
+"Huron, Michigan",26063,31189,4.7
+"Ingham, Michigan",26065,286477,3.6
+"Ionia, Michigan",26067,63339,3.5
+"Iosco, Michigan",26069,25034,6.4
+"Iron, Michigan",26071,11095,5.6
+"Isabella, Michigan",26073,70193,3.9
+"Jackson, Michigan",26075,157352,3.9
+"Kalamazoo, Michigan",26077,258708,3.4
+"Kalkaska, Michigan",26079,17269,5.9
+"Kent, Michigan",26081,634849,3
+"Keweenaw, Michigan",26083,2104,7
+"Lake, Michigan",26085,11678,6.8
+"Lapeer, Michigan",26087,87402,5.2
+"Leelanau, Michigan",26089,21342,4.3
+"Lenawee, Michigan",26091,97451,4.1
+"Livingston, Michigan",26093,186583,3.3
+"Luce, Michigan",26095,6326,6.3
+"Mackinac, Michigan",26097,10758,9.5
+"Macomb, Michigan",26099,859250,4
+"Manistee, Michigan",26101,24325,5.8
+"Marquette, Michigan",26103,66413,4.9
+"Mason, Michigan",26105,28674,4.9
+"Mecosta, Michigan",26107,42888,5
+"Menominee, Michigan",26109,23074,4
+"Midland, Michigan",26111,82586,4
+"Missaukee, Michigan",26113,14812,5.1
+"Monroe, Michigan",26115,148217,4.2
+"Montcalm, Michigan",26117,62531,4.3
+"Montmorency, Michigan",26119,9236,8.8
+"Muskegon, Michigan",26121,171110,4.6
+"Newaygo, Michigan",26123,47657,4.4
+"Oakland, Michigan",26125,1236881,3.3
+"Oceana, Michigan",26127,26153,6.2
+"Ogemaw, Michigan",26129,20775,6.9
+"Ontonagon, Michigan",26131,5954,7.8
+"Osceola, Michigan",26133,22986,4.4
+"Oscoda, Michigan",26135,8176,6.4
+"Otsego, Michigan",26137,24111,5.3
+"Ottawa, Michigan",26139,280603,2.8
+"Presque Isle, Michigan",26141,12717,8
+"Roscommon, Michigan",26143,23700,7.8
+"Saginaw, Michigan",26145,190464,4.8
+"St. Clair, Michigan",26147,157983,4.7
+"St. Joseph, Michigan",26149,60063,3.7
+"Sanilac, Michigan",26151,40970,5.2
+"Schoolcraft, Michigan",26153,8031,7.2
+"Shiawassee, Michigan",26155,67762,4.3
+"Tuscola, Michigan",26157,52718,5.5
+"Van Buren, Michigan",26159,74399,4.9
+"Washtenaw, Michigan",26161,362548,3.1
+"Wayne, Michigan",26163,1738297,5.2
+"Wexford, Michigan",26165,32757,4.7
+"Aitkin, Minnesota",27001,15731,5.6
+"Anoka, Minnesota",27003,343137,2.8
+"Becker, Minnesota",27005,33393,3.6
+"Beltrami, Minnesota",27007,45450,4.1
+"Benton, Minnesota",27009,39117,3.5
+"Big Stone, Minnesota",27011,4965,3.8
+"Blue Earth, Minnesota",27013,65616,2.5
+"Brown, Minnesota",27015,24963,3.4
+"Carlton, Minnesota",27017,35232,4.1
+"Carver, Minnesota",27019,99220,2.5
+"Cass, Minnesota",27021,28700,5.2
+"Chippewa, Minnesota",27023,11817,3.2
+"Chisago, Minnesota",27025,54224,3.4
+"Clay, Minnesota",27027,61855,2.9
+"Clearwater, Minnesota",27029,8696,8.2
+"Cook, Minnesota",27031,5284,3.5
+"Cottonwood, Minnesota",27033,11182,3.6
+"Crow Wing, Minnesota",27035,63188,4
+"Dakota, Minnesota",27037,413226,2.6
+"Dodge, Minnesota",27039,20370,3
+"Douglas, Minnesota",27041,36748,2.8
+"Faribault, Minnesota",27043,13740,3.5
+"Fillmore, Minnesota",27045,20658,3.1
+"Freeborn, Minnesota",27047,30225,3.2
+"Goodhue, Minnesota",27049,45665,2.8
+"Grant, Minnesota",27051,5865,4
+"Hennepin, Minnesota",27053,1219780,2.5
+"Houston, Minnesota",27055,18561,2.9
+"Hubbard, Minnesota",27057,20648,5
+"Isanti, Minnesota",27059,38491,3.7
+"Itasca, Minnesota",27061,44800,5.4
+"Jackson, Minnesota",27063,9932,2.9
+"Kanabec, Minnesota",27065,15882,5.5
+"Kandiyohi, Minnesota",27067,42118,3
+"Kittson, Minnesota",27069,4291,2.9
+"Koochiching, Minnesota",27071,12569,6.1
+"Lac qui Parle, Minnesota",27073,6714,3.7
+"Lake, Minnesota",27075,10454,3.2
+"Lake of the Woods, Minnesota",27077,3791,3.8
+"Le Sueur, Minnesota",27079,27573,4.2
+"Lincoln, Minnesota",27081,5637,3
+"Lyon, Minnesota",27083,25488,2.9
+"McLeod, Minnesota",27085,35419,3.2
+"Mahnomen, Minnesota",27087,5417,4.6
+"Marshall, Minnesota",27089,9270,5.9
+"Martin, Minnesota",27091,19729,3.2
+"Meeker, Minnesota",27093,22767,3.5
+"Mille Lacs, Minnesota",27095,25427,4.9
+"Morrison, Minnesota",27097,32608,4.7
+"Mower, Minnesota",27099,39103,2.7
+"Murray, Minnesota",27101,8261,3.8
+"Nicollet, Minnesota",27103,33413,2.2
+"Nobles, Minnesota",27105,21544,2.6
+"Norman, Minnesota",27107,6480,4.3
+"Olmsted, Minnesota",27109,151423,2.3
+"Otter Tail, Minnesota",27111,57194,3.6
+"Pennington, Minnesota",27113,14026,4.2
+"Pine, Minnesota",27115,28841,4.9
+"Pipestone, Minnesota",27117,9079,2.9
+"Polk, Minnesota",27119,31150,3.7
+"Pope, Minnesota",27121,10853,2.6
+"Ramsey, Minnesota",27123,533847,2.7
+"Red Lake, Minnesota",27125,3962,5.2
+"Redwood, Minnesota",27127,15172,3.6
+"Renville, Minnesota",27129,14520,4
+"Rice, Minnesota",27131,65095,2.8
+"Rock, Minnesota",27133,9254,2.3
+"Roseau, Minnesota",27135,15278,3.4
+"St. Louis, Minnesota",27137,198084,3.7
+"Scott, Minnesota",27139,141643,2.5
+"Sherburne, Minnesota",27141,92062,3.2
+"Sibley, Minnesota",27143,14750,3.2
+"Stearns, Minnesota",27145,155060,3
+"Steele, Minnesota",27147,36237,3
+"Stevens, Minnesota",27149,9668,2.4
+"Swift, Minnesota",27151,9278,3.7
+"Todd, Minnesota",27153,24165,3.9
+"Traverse, Minnesota",27155,3314,3.3
+"Wabasha, Minnesota",27157,21273,3
+"Wadena, Minnesota",27159,13470,5.2
+"Waseca, Minnesota",27161,18660,4.1
+"Washington, Minnesota",27163,250512,2.5
+"Watonwan, Minnesota",27165,10868,3.5
+"Wilkin, Minnesota",27167,6247,3
+"Winona, Minnesota",27169,50297,2.6
+"Wright, Minnesota",27171,131037,3
+"Yellow Medicine, Minnesota",27173,9730,3
+"Adams, Mississippi",28001,31134,6.4
+"Alcorn, Mississippi",28003,36883,4.2
+"Amite, Mississippi",28005,12429,6.2
+"Attala, Mississippi",28007,18295,5.7
+"Benton, Mississippi",28009,8202,5.6
+"Bolivar, Mississippi",28011,32238,6.1
+"Calhoun, Mississippi",28013,14440,4.7
+"Carroll, Mississippi",28015,10068,5.7
+"Chickasaw, Mississippi",28017,17118,5
+"Choctaw, Mississippi",28019,8230,4.9
+"Claiborne, Mississippi",28021,8986,9.2
+"Clarke, Mississippi",28023,15702,5.6
+"Clay, Mississippi",28025,19533,6.1
+"Coahoma, Mississippi",28027,23351,7.1
+"Copiah, Mississippi",28029,28333,5.6
+"Covington, Mississippi",28031,18762,4.5
+"DeSoto, Mississippi",28033,173906,3.8
+"Forrest, Mississippi",28035,74485,4.5
+"Franklin, Mississippi",28037,7649,6
+"George, Mississippi",28039,23483,6.6
+"Greene, Mississippi",28041,13656,6.3
+"Grenada, Mississippi",28043,21022,4.3
+"Hancock, Mississippi",28045,46056,5.1
+"Harrison, Mississippi",28047,200255,4.6
+"Hinds, Mississippi",28049,238884,4.7
+"Holmes, Mississippi",28051,17871,9
+"Humphreys, Mississippi",28053,8417,8.9
+"Issaquena, Mississippi",28055,1314,8.9
+"Itawamba, Mississippi",28057,23140,4.1
+"Jackson, Mississippi",28059,140522,5.7
+"Jasper, Mississippi",28061,16367,6
+"Jefferson, Mississippi",28063,7222,13.2
+"Jefferson Davis, Mississippi",28065,11382,6.7
+"Jones, Mississippi",28067,67339,4.9
+"Kemper, Mississippi",28069,10072,7.5
+"Lafayette, Mississippi",28071,52894,3.9
+"Lamar, Mississippi",28073,60435,3.7
+"Lauderdale, Mississippi",28075,76514,5
+"Lawrence, Mississippi",28077,12529,6
+"Leake, Mississippi",28079,22598,5.1
+"Lee, Mississippi",28081,83724,3.9
+"Leflore, Mississippi",28083,29506,7
+"Lincoln, Mississippi",28085,34025,4.7
+"Lowndes, Mississippi",28087,58644,4.9
+"Madison, Mississippi",28089,102475,3.7
+"Marion, Mississippi",28091,24920,5.2
+"Marshall, Mississippi",28093,35375,5
+"Monroe, Mississippi",28095,35394,4.9
+"Montgomery, Mississippi",28097,10133,5.3
+"Neshoba, Mississippi",28099,28983,5.1
+"Newton, Mississippi",28101,21349,4.8
+"Noxubee, Mississippi",28103,10701,6.8
+"Oktibbeha, Mississippi",28105,48847,4.8
+"Panola, Mississippi",28107,33869,6.1
+"Pearl River, Mississippi",28109,54642,4.8
+"Perry, Mississippi",28111,11910,5.9
+"Pike, Mississippi",28113,39325,5.9
+"Pontotoc, Mississippi",28115,30803,3.9
+"Prentiss, Mississippi",28117,25068,4.3
+"Quitman, Mississippi",28119,7264,7.8
+"Rankin, Mississippi",28121,149865,3.5
+"Scott, Mississippi",28123,28092,4
+"Sharkey, Mississippi",28125,4471,7.4
+"Simpson, Mississippi",28127,26897,4.6
+"Smith, Mississippi",28129,15966,4.4
+"Stone, Mississippi",28131,18159,5.8
+"Sunflower, Mississippi",28133,26200,7.9
+"Tallahatchie, Mississippi",28135,14242,5.4
+"Tate, Mississippi",28137,28154,5
+"Tippah, Mississippi",28139,21833,4.4
+"Tishomingo, Mississippi",28141,19350,4.6
+"Tunica, Mississippi",28143,10042,5.4
+"Union, Mississippi",28145,28104,3.6
+"Walthall, Mississippi",28147,14278,6.5
+"Warren, Mississippi",28149,46476,5.5
+"Washington, Mississippi",28151,46247,6.8
+"Wayne, Mississippi",28153,20134,5.5
+"Webster, Mississippi",28155,9739,5
+"Wilkinson, Mississippi",28157,8839,8.7
+"Winston, Mississippi",28159,18237,5.7
+"Yalobusha, Mississippi",28161,12273,5
+"Yazoo, Mississippi",28163,27534,5.6
+"Adair, Missouri",29001,25116,3.5
+"Andrew, Missouri",29003,17212,2.6
+"Atchison, Missouri",29005,5220,2.5
+"Audrain, Missouri",29007,25510,3
+"Barry, Missouri",29009,35023,2.9
+"Barton, Missouri",29011,11713,3
+"Bates, Missouri",29013,16236,3.8
+"Benton, Missouri",29015,18871,4.5
+"Bollinger, Missouri",29017,12163,3.6
+"Boone, Missouri",29019,174453,2.2
+"Buchanan, Missouri",29021,87566,2.9
+"Butler, Missouri",29023,42270,4.5
+"Caldwell, Missouri",29025,8960,3.1
+"Callaway, Missouri",29027,44328,2.9
+"Camden, Missouri",29029,44739,4.2
+"Cape Girardeau, Missouri",29031,77268,2.7
+"Carroll, Missouri",29033,8662,3.1
+"Carter, Missouri",29035,6179,5
+"Cass, Missouri",29037,101525,3
+"Cedar, Missouri",29039,13774,3.4
+"Chariton, Missouri",29041,7436,2.8
+"Christian, Missouri",29043,82916,2.5
+"Clark, Missouri",29045,6724,3.8
+"Clay, Missouri",29047,236783,2.9
+"Clinton, Missouri",29049,20208,3.2
+"Cole, Missouri",29051,75967,2.5
+"Cooper, Missouri",29053,17411,3.1
+"Crawford, Missouri",29055,23912,3.8
+"Dade, Missouri",29057,7529,2.7
+"Dallas, Missouri",29059,16336,3.9
+"Daviess, Missouri",29061,8219,3
+"DeKalb, Missouri",29063,12468,3.1
+"Dent, Missouri",29065,15355,3.3
+"Douglas, Missouri",29067,13247,4.4
+"Dunklin, Missouri",29069,30010,5.4
+"Franklin, Missouri",29071,101488,3
+"Gasconade, Missouri",29073,14541,2.9
+"Gentry, Missouri",29075,6552,2.4
+"Greene, Missouri",29077,285227,2.5
+"Grundy, Missouri",29079,9922,3.5
+"Harrison, Missouri",29081,8498,3
+"Henry, Missouri",29083,21500,3.5
+"Hickory, Missouri",29085,9324,4.1
+"Holt, Missouri",29087,4379,2.3
+"Howard, Missouri",29089,10036,2.8
+"Howell, Missouri",29091,39556,3.5
+"Iron, Missouri",29093,10125,5.3
+"Jackson, Missouri",29095,682749,3.7
+"Jasper, Missouri",29097,117851,2.7
+"Jefferson, Missouri",29099,220801,3.1
+"Johnson, Missouri",29101,52893,3.6
+"Knox, Missouri",29103,3903,2.8
+"Laclede, Missouri",29105,34927,3.7
+"Lafayette, Missouri",29107,32220,3.2
+"Lawrence, Missouri",29109,37592,3
+"Lewis, Missouri",29111,9917,2.8
+"Lincoln, Missouri",29113,54932,3.2
+"Linn, Missouri",29115,12078,4.6
+"Livingston, Missouri",29117,14811,2.5
+"McDonald, Missouri",29119,22466,3
+"Macon, Missouri",29121,15095,2.9
+"Madison, Missouri",29123,12088,3.5
+"Maries, Missouri",29125,8829,3.2
+"Marion, Missouri",29127,28319,3.1
+"Mercer, Missouri",29129,3636,3
+"Miller, Missouri",29131,24750,3.6
+"Mississippi, Missouri",29133,13547,3.8
+"Moniteau, Missouri",29135,15730,2.9
+"Monroe, Missouri",29137,8547,3.5
+"Montgomery, Missouri",29139,11387,2.9
+"Morgan, Missouri",29141,19944,4.2
+"New Madrid, Missouri",29143,17603,4.7
+"Newton, Missouri",29145,57456,3
+"Nodaway, Missouri",29147,22373,2.9
+"Oregon, Missouri",29149,10557,3.4
+"Osage, Missouri",29151,13402,2.4
+"Ozark, Missouri",29153,9155,5.1
+"Pemiscot, Missouri",29155,16716,5.4
+"Perry, Missouri",29157,18925,2.3
+"Pettis, Missouri",29159,41886,4.1
+"Phelps, Missouri",29161,43965,3
+"Pike, Missouri",29163,18223,3.6
+"Platte, Missouri",29165,97919,2.5
+"Polk, Missouri",29167,31321,3.6
+"Pulaski, Missouri",29169,51965,3.6
+"Putnam, Missouri",29171,4741,3.4
+"Ralls, Missouri",29173,9989,2.8
+"Randolph, Missouri",29175,24689,3.8
+"Ray, Missouri",29177,22493,3.6
+"Reynolds, Missouri",29179,6302,3.1
+"Ripley, Missouri",29181,13576,5.2
+"St. Charles, Missouri",29183,385632,2.5
+"St. Clair, Missouri",29185,9327,4.3
+"Ste. Genevieve, Missouri",29186,17766,2.8
+"St. Francois, Missouri",29187,65809,3.6
+"St. Louis, Missouri",29189,987746,3
+"Saline, Missouri",29195,22798,3
+"Schuyler, Missouri",29197,4411,4
+"Scotland, Missouri",29199,4764,2.8
+"Scott, Missouri",29201,38248,3.4
+"Shannon, Missouri",29203,8160,4.9
+"Shelby, Missouri",29205,6013,3
+"Stoddard, Missouri",29207,29188,4.4
+"Stone, Missouri",29209,31273,4.6
+"Sullivan, Missouri",29211,6247,3.1
+"Taney, Missouri",29213,54220,5.1
+"Texas, Missouri",29215,25421,4
+"Vernon, Missouri",29217,20405,3.1
+"Warren, Missouri",29219,33486,2.8
+"Washington, Missouri",29221,24761,4.4
+"Wayne, Missouri",29223,13188,4.7
+"Webster, Missouri",29225,37511,3.1
+"Worth, Missouri",29227,2021,2.8
+"Wright, Missouri",29229,18123,4.1
+"St. Louis city, Missouri",29510,307379,3.8
+"Beaverhead, Montana",30001,9326,3
+"Big Horn, Montana",30003,13261,9.4
+"Blaine, Montana",30005,6570,4.1
+"Broadwater, Montana",30007,5746,3.9
+"Carbon, Montana",30009,10467,3.5
+"Carter, Montana",30011,1306,2.6
+"Cascade, Montana",30013,80479,3.5
+"Chouteau, Montana",30015,5700,3
+"Custer, Montana",30017,11726,3
+"Daniels, Montana",30019,1735,2
+"Dawson, Montana",30021,9125,2.6
+"Deer Lodge, Montana",30023,8995,3.5
+"Fallon, Montana",30025,2797,1.8
+"Fergus, Montana",30027,11172,3.6
+"Flathead, Montana",30029,96920,4.7
+"Gallatin, Montana",30031,103573,2.5
+"Garfield, Montana",30033,1107,2.7
+"Glacier, Montana",30035,13533,7.6
+"Golden Valley, Montana",30037,720,4.6
+"Granite, Montana",30039,3235,5.2
+"Hill, Montana",30041,16176,3.5
+"Jefferson, Montana",30043,11689,3.7
+"Judith Basin, Montana",30045,1944,3.3
+"Lake, Montana",30047,29427,4.2
+"Lewis and Clark, Montana",30049,66142,3.3
+"Liberty, Montana",30051,2259,2.5
+"Lincoln, Montana",30053,19243,7.3
+"McCone, Montana",30055,1607,1.9
+"Madison, Montana",30057,8152,3.5
+"Meagher, Montana",30059,1950,3.8
+"Mineral, Montana",30061,4201,7
+"Missoula, Montana",30063,115061,3.3
+"Musselshell, Montana",30065,4675,4.1
+"Park, Montana",30067,16057,3.8
+"Petroleum, Montana",30069,429,3.9
+"Phillips, Montana",30071,4092,4.4
+"Pondera, Montana",30073,5975,3.9
+"Powder River, Montana",30075,1596,2.8
+"Powell, Montana",30077,6820,4
+"Prairie, Montana",30079,1327,3.7
+"Ravalli, Montana",30081,41457,4.1
+"Richland, Montana",30083,11190,3
+"Roosevelt, Montana",30085,11110,4.5
+"Rosebud, Montana",30087,9072,5.1
+"Sanders, Montana",30089,11363,6.3
+"Sheridan, Montana",30091,3561,2.3
+"Silver Bow, Montana",30093,34473,3.9
+"Stillwater, Montana",30095,9345,3.3
+"Sweet Grass, Montana",30097,3618,3
+"Teton, Montana",30099,5974,3.3
+"Toole, Montana",30101,4954,2.5
+"Treasure, Montana",30103,767,2.7
+"Valley, Montana",30105,7485,3
+"Wheatland, Montana",30107,2117,4.9
+"Wibaux, Montana",30109,1154,3.4
+"Yellowstone, Montana",30111,156199,3.3
+"Adams, Nebraska",31001,31244,3
+"Antelope, Nebraska",31003,6290,2.5
+"Arthur, Nebraska",31005,416,5
+"Banner, Nebraska",31007,693,3.7
+"Blaine, Nebraska",31009,475,4.6
+"Boone, Nebraska",31011,5273,2.3
+"Box Butte, Nebraska",31013,10982,2.9
+"Boyd, Nebraska",31015,2020,3.1
+"Brown, Nebraska",31017,2978,3.5
+"Buffalo, Nebraska",31019,48528,2.4
+"Burt, Nebraska",31021,6486,3.5
+"Butler, Nebraska",31023,7951,2.4
+"Cass, Nebraska",31025,25425,3.1
+"Cedar, Nebraska",31027,8413,2.4
+"Chase, Nebraska",31029,3678,2.2
+"Cherry, Nebraska",31031,5729,2.2
+"Cheyenne, Nebraska",31033,9768,2.9
+"Clay, Nebraska",31035,6184,3.2
+"Colfax, Nebraska",31037,10609,2.5
+"Cuming, Nebraska",31039,8883,2.6
+"Custer, Nebraska",31041,10677,2.2
+"Dakota, Nebraska",31043,19933,3.7
+"Dawes, Nebraska",31045,8865,2.7
+"Dawson, Nebraska",31047,23430,2.9
+"Deuel, Nebraska",31049,1876,3
+"Dixon, Nebraska",31051,5666,3.2
+"Dodge, Nebraska",31053,36134,2.9
+"Douglas, Nebraska",31055,546877,3.2
+"Dundy, Nebraska",31057,1994,2.3
+"Fillmore, Nebraska",31059,5517,2.6
+"Franklin, Nebraska",31061,2967,3.1
+"Frontier, Nebraska",31063,2585,2.6
+"Furnas, Nebraska",31065,4749,2.7
+"Gage, Nebraska",31067,21365,3.3
+"Garden, Nebraska",31069,1832,2.5
+"Garfield, Nebraska",31071,1955,2.5
+"Gosper, Nebraska",31073,2005,2.6
+"Grant, Nebraska",31075,708,2.6
+"Greeley, Nebraska",31077,2367,2.7
+"Hall, Nebraska",31079,60518,3.3
+"Hamilton, Nebraska",31081,9099,2.6
+"Harlan, Nebraska",31083,3372,2.4
+"Hayes, Nebraska",31085,927,2.2
+"Hitchcock, Nebraska",31087,2823,3.5
+"Holt, Nebraska",31089,10092,2.6
+"Hooker, Nebraska",31091,691,3.7
+"Howard, Nebraska",31093,6352,3.1
+"Jefferson, Nebraska",31095,7042,2.6
+"Johnson, Nebraska",31097,5158,3.7
+"Kearney, Nebraska",31099,6485,2.1
+"Keith, Nebraska",31101,8035,3.1
+"Keya Paha, Nebraska",31103,776,2.2
+"Kimball, Nebraska",31105,3631,2.8
+"Knox, Nebraska",31107,8364,3.2
+"Lancaster, Nebraska",31109,306042,2.7
+"Lincoln, Nebraska",31111,34881,3.1
+"Logan, Nebraska",31113,857,3
+"Loup, Nebraska",31115,578,3.3
+"McPherson, Nebraska",31117,440,2.7
+"Madison, Nebraska",31119,34757,2.6
+"Merrick, Nebraska",31121,7641,2.9
+"Morrill, Nebraska",31123,4822,2.8
+"Nance, Nebraska",31125,3512,2.5
+"Nemaha, Nebraska",31127,6934,3.5
+"Nuckolls, Nebraska",31129,4224,2.8
+"Otoe, Nebraska",31131,15644,3
+"Pawnee, Nebraska",31133,2653,2.6
+"Perkins, Nebraska",31135,2889,2
+"Phelps, Nebraska",31137,9071,2.3
+"Pierce, Nebraska",31139,7025,2.7
+"Platte, Nebraska",31141,32687,2.8
+"Polk, Nebraska",31143,5196,2.5
+"Red Willow, Nebraska",31145,10697,2.5
+"Richardson, Nebraska",31147,7965,3.1
+"Rock, Nebraska",31149,1332,2.5
+"Saline, Nebraska",31151,14143,3.1
+"Sarpy, Nebraska",31153,175848,2.8
+"Saunders, Nebraska",31155,20711,2.9
+"Scotts Bluff, Nebraska",31157,35798,3.4
+"Seward, Nebraska",31159,16879,2.7
+"Sheridan, Nebraska",31161,5180,2.6
+"Sherman, Nebraska",31163,3005,2.7
+"Sioux, Nebraska",31165,1230,2.7
+"Stanton, Nebraska",31167,5944,2.6
+"Thayer, Nebraska",31169,5073,2.3
+"Thomas, Nebraska",31171,645,3
+"Thurston, Nebraska",31173,7029,4.2
+"Valley, Nebraska",31175,4165,3
+"Washington, Nebraska",31177,20078,2.9
+"Wayne, Nebraska",31179,9294,2.5
+"Webster, Nebraska",31181,3532,2.9
+"Wheeler, Nebraska",31183,805,2.4
+"York, Nebraska",31185,13660,2.6
+"Churchill, Nevada",32001,23749,3.8
+"Clark, Nevada",32003,2117336,4.7
+"Douglas, Nevada",32005,47559,4.2
+"Elko, Nevada",32007,51556,3.1
+"Esmeralda, Nevada",32009,974,5
+"Eureka, Nevada",32011,1830,2.6
+"Humboldt, Nevada",32013,16476,3.3
+"Lander, Nevada",32015,5556,3.5
+"Lincoln, Nevada",32017,5142,4.4
+"Lyon, Nevada",32019,52695,5.4
+"Mineral, Nevada",32021,4404,5.2
+"Nye, Nevada",32023,43248,5.6
+"Pershing, Nevada",32027,6565,4
+"Storey, Nevada",32029,3925,4.3
+"Washoe, Nevada",32031,445058,3.5
+"White Pine, Nevada",32033,9654,3.6
+"Carson City, Nevada",32510,54066,4.6
+"Belknap, New Hampshire",33001,60125,2.6
+"Carroll, New Hampshire",33003,47590,2.6
+"Cheshire, New Hampshire",33005,75721,2.6
+"Coos, New Hampshire",33007,31805,3.2
+"Grafton, New Hampshire",33009,89130,2.1
+"Hillsborough, New Hampshire",33011,406742,2.7
+"Merrimack, New Hampshire",33013,148046,2.2
+"Rockingham, New Hampshire",33015,302381,2.8
+"Strafford, New Hampshire",33017,127229,2.3
+"Sullivan, New Hampshire",33019,42838,2.2
+"Atlantic, New Jersey",34001,265749,5.8
+"Bergen, New Jersey",34003,921348,3.4
+"Burlington, New Jersey",34005,442448,3.7
+"Camden, New Jersey",34007,501540,4.6
+"Cape May, New Jersey",34009,93056,8.4
+"Cumberland, New Jersey",34011,151828,6.4
+"Essex, New Jersey",34013,784147,5.1
+"Gloucester, New Jersey",34015,287979,4.2
+"Hudson, New Jersey",34017,659336,3.8
+"Hunterdon, New Jersey",34019,124036,3.2
+"Mercer, New Jersey",34021,365144,3.6
+"Middlesex, New Jersey",34023,817729,3.6
+"Monmouth, New Jersey",34025,618391,3.6
+"Morris, New Jersey",34027,490019,3.2
+"Ocean, New Jersey",34029,583650,4.2
+"Passaic, New Jersey",34031,496996,5
+"Salem, New Jersey",34033,62845,5.4
+"Somerset, New Jersey",34035,326926,3.4
+"Sussex, New Jersey",34037,140925,3.9
+"Union, New Jersey",34039,546538,4.3
+"Warren, New Jersey",34041,105542,3.8
+"Bernalillo, New Mexico",35001,670141,4.5
+"Catron, New Mexico",35003,3528,6.3
+"Chaves, New Mexico",35005,64671,4.8
+"Cibola, New Mexico",35006,26725,6.2
+"Colfax, New Mexico",35007,12269,4.8
+"Curry, New Mexico",35009,49383,4
+"De Baca, New Mexico",35011,2046,4.5
+"Dona Ana, New Mexico",35013,213004,5.6
+"Eddy, New Mexico",35015,56468,3.3
+"Grant, New Mexico",35017,27746,4.8
+"Guadalupe, New Mexico",35019,4341,5.4
+"Harding, New Mexico",35021,459,5.1
+"Hidalgo, New Mexico",35023,4316,3.7
+"Lea, New Mexico",35025,69090,4.1
+"Lincoln, New Mexico",35027,19340,4.5
+"Los Alamos, New Mexico",35028,18225,3.4
+"Luna, New Mexico",35029,23816,11.7
+"McKinley, New Mexico",35031,71728,7
+"Mora, New Mexico",35033,4563,6
+"Otero, New Mexico",35035,64921,4.9
+"Quay, New Mexico",35037,8312,4.7
+"Rio Arriba, New Mexico",35039,39047,5.2
+"Roosevelt, New Mexico",35041,18798,4.3
+"Sandoval, New Mexico",35043,139339,4.9
+"San Juan, New Mexico",35045,125714,5.7
+"San Miguel, New Mexico",35047,27735,5.9
+"Santa Fe, New Mexico",35049,147670,4.1
+"Sierra, New Mexico",35051,11084,6.9
+"Socorro, New Mexico",35053,16823,5.2
+"Taos, New Mexico",35055,32663,6.4
+"Torrance, New Mexico",35057,15375,7.5
+"Union, New Mexico",35059,4118,3.3
+"Valencia, New Mexico",35061,75046,5.4
+"Albany, New York",36001,304406,3.7
+"Allegany, New York",36003,46578,5.6
+"Bronx, New York",36005,1418035,5.8
+"Broome, New York",36007,192679,4.9
+"Cattaraugus, New York",36009,76918,5.3
+"Cayuga, New York",36011,77031,4.5
+"Chautauqua, New York",36013,128366,5
+"Chemung, New York",36015,84926,4.6
+"Chenango, New York",36017,47982,4.7
+"Clinton, New York",36019,80182,4.4
+"Columbia, New York",36021,60518,3.3
+"Cortland, New York",36023,47550,5.1
+"Delaware, New York",36025,45187,4.8
+"Dutchess, New York",36027,291663,3.7
+"Erie, New York",36029,909206,4.4
+"Essex, New York",36031,37467,4.8
+"Franklin, New York",36033,50293,5.1
+"Fulton, New York",36035,53186,5.1
+"Genesee, New York",36037,57441,4.2
+"Greene, New York",36039,47325,4.6
+"Hamilton, New York",36041,4536,6.9
+"Herkimer, New York",36043,62013,4.9
+"Jefferson, New York",36045,112346,5.6
+"Kings, New York",36047,2563953,4.3
+"Lewis, New York",36049,26386,5.6
+"Livingston, New York",36051,63312,4.3
+"Madison, New York",36053,70778,4.8
+"Monroe, New York",36055,737278,4.3
+"Montgomery, New York",36057,48780,5.2
+"Nassau, New York",36059,1344001,3.5
+"New York, New York",36061,1614531,3.7
+"Niagara, New York",36063,209687,5.2
+"Oneida, New York",36065,227995,4.5
+"Onondaga, New York",36067,459572,4
+"Ontario, New York",36069,108576,3.9
+"Orange, New York",36071,373770,3.9
+"Orleans, New York",36073,40804,5
+"Oswego, New York",36075,118027,5.5
+"Otsego, New York",36077,59718,4.4
+"Putnam, New York",36079,97922,3.7
+"Queens, New York",36081,2272190,3.7
+"Rensselaer, New York",36083,157662,3.9
+"Richmond, New York",36085,468988,4.2
+"Rockland, New York",36087,319193,3.7
+"St. Lawrence, New York",36089,108458,5.6
+"Saratoga, New York",36091,225194,3.5
+"Schenectady, New York",36093,153247,4
+"Schoharie, New York",36095,31160,4.8
+"Schuyler, New York",36097,17864,5.1
+"Seneca, New York",36099,34080,3.9
+"Steuben, New York",36101,95790,4.9
+"Suffolk, New York",36103,1474458,3.8
+"Sullivan, New York",36105,74585,4.1
+"Tioga, New York",36107,48477,4.4
+"Tompkins, New York",36109,102133,3.6
+"Ulster, New York",36111,177690,3.9
+"Warren, New York",36113,63996,4.7
+"Washington, New York",36115,61321,4.2
+"Wayne, New York",36117,89864,4.1
+"Westchester, New York",36119,959241,3.9
+"Wyoming, New York",36121,40198,4.6
+"Yates, New York",36123,24769,3.8
+"Alamance, North Carolina",37001,158954,3.8
+"Alexander, North Carolina",37003,36657,3.2
+"Alleghany, North Carolina",37005,10883,4.6
+"Anson, North Carolina",37007,25123,4.5
+"Ashe, North Carolina",37009,26663,3.6
+"Avery, North Carolina",37011,17315,3.7
+"Beaufort, North Carolina",37013,46802,4.6
+"Bertie, North Carolina",37015,19477,5
+"Bladen, North Carolina",37017,33362,5.3
+"Brunswick, North Carolina",37019,125736,5.3
+"Buncombe, North Carolina",37021,252454,3
+"Burke, North Carolina",37023,89093,3.6
+"Cabarrus, North Carolina",37025,199460,3.6
+"Caldwell, North Carolina",37027,81125,3.9
+"Camden, North Carolina",37029,10367,3.8
+"Carteret, North Carolina",37031,68340,4.4
+"Caswell, North Carolina",37033,22536,4.4
+"Catawba, North Carolina",37035,154993,3.6
+"Chatham, North Carolina",37037,69008,3.4
+"Cherokee, North Carolina",37039,27456,4.5
+"Chowan, North Carolina",37041,14061,4.5
+"Clay, North Carolina",37043,10760,4.4
+"Cleveland, North Carolina",37045,96099,4
+"Columbus, North Carolina",37047,55783,5
+"Craven, North Carolina",37049,101872,4.3
+"Cumberland, North Carolina",37051,326815,5.2
+"Currituck, North Carolina",37053,25477,3.6
+"Dare, North Carolina",37055,35467,5.2
+"Davidson, North Carolina",37057,162939,3.7
+"Davie, North Carolina",37059,41694,3.5
+"Duplin, North Carolina",37061,57938,4.3
+"Durham, North Carolina",37063,301990,3.6
+"Edgecombe, North Carolina",37065,52724,6.9
+"Forsyth, North Carolina",37067,367369,3.9
+"Franklin, North Carolina",37069,64197,4.1
+"Gaston, North Carolina",37071,214260,4
+"Gates, North Carolina",37073,11488,4
+"Graham, North Carolina",37075,8548,5.9
+"Granville, North Carolina",37077,58516,3.4
+"Greene, North Carolina",37079,20794,3.9
+"Guilford, North Carolina",37081,517591,4.2
+"Halifax, North Carolina",37083,51400,6.1
+"Harnett, North Carolina",37085,128506,4.7
+"Haywood, North Carolina",37087,59839,3.4
+"Henderson, North Carolina",37089,112724,3.3
+"Hertford, North Carolina",37091,23932,5.1
+"Hoke, North Carolina",37093,52015,5.1
+"Hyde, North Carolina",37095,5313,8.3
+"Iredell, North Carolina",37097,170478,3.7
+"Jackson, North Carolina",37099,41911,4.2
+"Johnston, North Carolina",37101,188853,3.7
+"Jones, North Carolina",37103,9626,4.2
+"Lee, North Carolina",37105,59541,4.4
+"Lenoir, North Carolina",37107,56831,4
+"Lincoln, North Carolina",37109,80734,3.5
+"McDowell, North Carolina",37111,44645,3.4
+"Macon, North Carolina",37113,34098,4
+"Madison, North Carolina",37115,21321,3.7
+"Martin, North Carolina",37117,22737,5
+"Mecklenburg, North Carolina",37119,1040607,3.8
+"Mitchell, North Carolina",37121,14862,4.5
+"Montgomery, North Carolina",37123,27137,4
+"Moore, North Carolina",37125,95027,3.9
+"Nash, North Carolina",37127,92663,5.1
+"New Hanover, North Carolina",37129,221872,3.8
+"Northampton, North Carolina",37131,20066,5.1
+"Onslow, North Carolina",37133,190085,4.9
+"Orange, North Carolina",37135,141966,3.3
+"Pamlico, North Carolina",37137,12684,4.2
+"Pasquotank, North Carolina",37139,38935,4.8
+"Pender, North Carolina",37141,58371,4.2
+"Perquimans, North Carolina",37143,13321,4.9
+"Person, North Carolina",37145,39033,4.2
+"Pitt, North Carolina",37147,175335,4.3
+"Polk, North Carolina",37149,20336,3.8
+"Randolph, North Carolina",37151,141295,3.8
+"Richmond, North Carolina",37153,44649,5.5
+"Robeson, North Carolina",37155,131669,5.9
+"Rockingham, North Carolina",37157,90626,4.6
+"Rowan, North Carolina",37159,138198,4
+"Rutherford, North Carolina",37161,65723,5.1
+"Sampson, North Carolina",37163,62859,4.1
+"Scotland, North Carolina",37165,34857,7.4
+"Stanly, North Carolina",37167,60337,3.6
+"Stokes, North Carolina",37169,45561,3.7
+"Surry, North Carolina",37171,71406,3.5
+"Swain, North Carolina",37173,14116,4.3
+"Transylvania, North Carolina",37175,33224,3.8
+"Tyrrell, North Carolina",37177,4079,6.3
+"Union, North Carolina",37179,224442,3.5
+"Vance, North Carolina",37181,43781,5.8
+"Wake, North Carolina",37183,1034630,3.4
+"Warren, North Carolina",37185,19741,6
+"Washington, North Carolina",37187,11922,6
+"Watauga, North Carolina",37189,53854,3.5
+"Wayne, North Carolina",37191,122296,4.3
+"Wilkes, North Carolina",37193,67883,3.8
+"Wilson, North Carolina",37195,80581,6.2
+"Yadkin, North Carolina",37197,37139,3.4
+"Yancey, North Carolina",37199,17545,3.6
+"Adams, North Dakota",38001,2343,2
+"Barnes, North Dakota",38003,10664,2.7
+"Benson, North Dakota",38005,6749,3.8
+"Billings, North Dakota",38007,942,2.8
+"Bottineau, North Dakota",38009,6527,3.3
+"Bowman, North Dakota",38011,3142,1.8
+"Burke, North Dakota",38013,2192,2.3
+"Burleigh, North Dakota",38015,92342,2.6
+"Cass, North Dakota",38017,171615,2.3
+"Cavalier, North Dakota",38019,3787,2.6
+"Dickey, North Dakota",38021,4869,1.8
+"Divide, North Dakota",38023,2290,1.3
+"Dunn, North Dakota",38025,4315,1.6
+"Eddy, North Dakota",38027,2283,4.9
+"Emmons, North Dakota",38029,3325,4.8
+"Foster, North Dakota",38031,3256,2.6
+"Golden Valley, North Dakota",38033,1847,1.9
+"Grand Forks, North Dakota",38035,69610,2.2
+"Grant, North Dakota",38037,2358,2.6
+"Griggs, North Dakota",38039,2230,2.2
+"Hettinger, North Dakota",38041,2533,2
+"Kidder, North Dakota",38043,2436,4.4
+"LaMoure, North Dakota",38045,4072,1.9
+"Logan, North Dakota",38047,1891,2.5
+"McHenry, North Dakota",38049,5820,3.9
+"McIntosh, North Dakota",38051,2644,2.6
+"McKenzie, North Dakota",38053,12350,1.7
+"McLean, North Dakota",38055,9515,3.3
+"Mercer, North Dakota",38057,8438,4.2
+"Morton, North Dakota",38059,30105,3.2
+"Mountrail, North Dakota",38061,9995,1.6
+"Nelson, North Dakota",38063,2891,3.3
+"Oliver, North Dakota",38065,1827,4
+"Pembina, North Dakota",38067,6935,3.9
+"Pierce, North Dakota",38069,4172,3.2
+"Ramsey, North Dakota",38071,11473,2.8
+"Ransom, North Dakota",38073,5329,1.9
+"Renville, North Dakota",38075,2446,2.4
+"Richland, North Dakota",38077,16111,2.6
+"Rolette, North Dakota",38079,14398,9.3
+"Sargent, North Dakota",38081,3848,1.9
+"Sheridan, North Dakota",38083,1386,4.5
+"Sioux, North Dakota",38085,4365,4
+"Slope, North Dakota",38087,704,2.3
+"Stark, North Dakota",38089,30346,2.4
+"Steele, North Dakota",38091,1891,2
+"Stutsman, North Dakota",38093,20792,2.5
+"Towner, North Dakota",38095,2221,2.5
+"Traill, North Dakota",38097,7939,2.6
+"Walsh, North Dakota",38099,10629,3.1
+"Ward, North Dakota",38101,67858,2.8
+"Wells, North Dakota",38103,3977,3
+"Williams, North Dakota",38105,33571,2
+"Adams, Ohio",39001,27692,7
+"Allen, Ohio",39003,102536,4.5
+"Ashland, Ohio",39005,52957,4.6
+"Ashtabula, Ohio",39007,97058,5.2
+"Athens, Ohio",39009,65411,5.6
+"Auglaize, Ohio",39011,45083,3.3
+"Belmont, Ohio",39013,67942,5.5
+"Brown, Ohio",39015,43117,5.4
+"Butler, Ohio",39017,374082,4.1
+"Carroll, Ohio",39019,27385,5.3
+"Champaign, Ohio",39021,38540,3.8
+"Clark, Ohio",39023,133556,4.6
+"Clermont, Ohio",39025,200602,4.1
+"Clinton, Ohio",39027,41402,5.2
+"Columbiana, Ohio",39029,103050,5.1
+"Coshocton, Ohio",39031,36219,6.2
+"Crawford, Ohio",39033,41541,5.2
+"Cuyahoga, Ohio",39035,1239713,4.8
+"Darke, Ohio",39037,51107,3.9
+"Defiance, Ohio",39039,37899,4.4
+"Delaware, Ohio",39041,195203,3.4
+"Erie, Ohio",39043,74296,5.6
+"Fairfield, Ohio",39045,151100,4.1
+"Fayette, Ohio",39047,28289,4.1
+"Franklin, Ohio",39049,1257686,3.8
+"Fulton, Ohio",39051,41722,4.4
+"Gallia, Ohio",39053,29842,6
+"Geauga, Ohio",39055,92989,3.9
+"Greene, Ohio",39057,164178,4
+"Guernsey, Ohio",39059,38763,5.5
+"Hamilton, Ohio",39061,801821,4.1
+"Hancock, Ohio",39063,74759,3.4
+"Hardin, Ohio",39065,31140,4.4
+"Harrison, Ohio",39067,15161,5.2
+"Henry, Ohio",39069,27022,4.9
+"Highland, Ohio",39071,42556,5.5
+"Hocking, Ohio",39073,28268,5.1
+"Holmes, Ohio",39075,42988,3.3
+"Huron, Ohio",39077,57790,5.9
+"Jackson, Ohio",39079,32162,6.5
+"Jefferson, Ohio",39081,66468,6.3
+"Knox, Ohio",39083,60628,4.3
+"Lake, Ohio",39085,228031,4.3
+"Lawrence, Ohio",39087,59888,5.6
+"Licking, Ohio",39089,170175,4
+"Logan, Ohio",39091,44709,3.7
+"Lorain, Ohio",39093,303568,4.9
+"Lucas, Ohio",39095,426890,5.2
+"Madison, Ohio",39097,43512,3.8
+"Mahoning, Ohio",39099,229010,5.9
+"Marion, Ohio",39101,64541,4.4
+"Medina, Ohio",39103,175464,3.9
+"Meigs, Ohio",39105,22906,7.2
+"Mercer, Ohio",39107,40200,2.7
+"Miami, Ohio",39109,103521,3.9
+"Monroe, Ohio",39111,13949,7.7
+"Montgomery, Ohio",39113,525276,4.5
+"Morgan, Ohio",39115,14448,6
+"Morrow, Ohio",39117,34759,4.6
+"Muskingum, Ohio",39119,85005,5.3
+"Noble, Ohio",39121,14320,6.6
+"Ottawa, Ohio",39123,40368,6.3
+"Paulding, Ohio",39125,18661,4.1
+"Perry, Ohio",39127,35668,5.6
+"Pickaway, Ohio",39129,56758,4.3
+"Pike, Ohio",39131,27831,6.5
+"Portage, Ohio",39133,161293,4.5
+"Preble, Ohio",39135,40727,4.1
+"Putnam, Ohio",39137,33511,3.3
+"Richland, Ohio",39139,120201,4.9
+"Ross, Ohio",39141,76462,4.5
+"Sandusky, Ohio",39143,58622,4.5
+"Scioto, Ohio",39145,75460,6.7
+"Seneca, Ohio",39147,54841,4.4
+"Shelby, Ohio",39149,48087,3.7
+"Stark, Ohio",39151,369494,4.9
+"Summit, Ohio",39153,536040,4.6
+"Trumbull, Ohio",39155,199048,6.2
+"Tuscarawas, Ohio",39157,91103,4.5
+"Union, Ohio",39159,54963,3.5
+"Van Wert, Ohio",39161,27984,3.5
+"Vinton, Ohio",39163,12994,6.2
+"Warren, Ohio",39165,224371,3.8
+"Washington, Ohio",39167,60027,5.6
+"Wayne, Ohio",39169,114678,3.6
+"Williams, Ohio",39171,36518,3.6
+"Wood, Ohio",39173,128476,4
+"Wyandot, Ohio",39175,21857,3.2
+"Adair, Oklahoma",40001,21791,4.2
+"Alfalfa, Oklahoma",40003,5817,2.2
+"Atoka, Oklahoma",40005,13714,4.2
+"Beaver, Oklahoma",40007,5367,2
+"Beckham, Oklahoma",40009,22317,2.6
+"Blaine, Oklahoma",40011,9541,2
+"Bryan, Oklahoma",40013,45223,3.2
+"Caddo, Oklahoma",40015,29008,3.6
+"Canadian, Oklahoma",40017,135234,2.8
+"Carter, Oklahoma",40019,47965,3.5
+"Cherokee, Oklahoma",40021,48130,4.2
+"Choctaw, Oklahoma",40023,14669,5
+"Cimarron, Oklahoma",40025,2171,1.9
+"Cleveland, Oklahoma",40027,273742,2.9
+"Coal, Oklahoma",40029,5560,3.7
+"Comanche, Oklahoma",40031,120759,3.9
+"Cotton, Oklahoma",40033,5888,3.1
+"Craig, Oklahoma",40035,14355,3.5
+"Creek, Oklahoma",40037,70233,3.8
+"Custer, Oklahoma",40039,28907,2.4
+"Delaware, Oklahoma",40041,41771,4
+"Dewey, Oklahoma",40043,4906,1.9
+"Ellis, Oklahoma",40045,4021,2.2
+"Garfield, Oklahoma",40047,61286,3.1
+"Garvin, Oklahoma",40049,27434,3.3
+"Grady, Oklahoma",40051,54275,3.1
+"Grant, Oklahoma",40053,4385,2.1
+"Greer, Oklahoma",40055,5897,4.1
+"Harmon, Oklahoma",40057,2709,2.9
+"Harper, Oklahoma",40059,3813,2.3
+"Haskell, Oklahoma",40061,12548,5.1
+"Hughes, Oklahoma",40063,13279,4.2
+"Jackson, Oklahoma",40065,24861,3
+"Jefferson, Oklahoma",40067,6156,3.4
+"Johnston, Oklahoma",40069,10937,3
+"Kay, Oklahoma",40071,44442,4.7
+"Kingfisher, Oklahoma",40073,15388,2.1
+"Kiowa, Oklahoma",40075,8955,4.2
+"Latimer, Oklahoma",40077,10359,6
+"Le Flore, Oklahoma",40079,49346,4.6
+"Lincoln, Oklahoma",40081,34541,3.6
+"Logan, Oklahoma",40083,45625,3.1
+"Love, Oklahoma",40085,9812,2.2
+"McClain, Oklahoma",40087,38206,2.8
+"McCurtain, Oklahoma",40089,32608,5.5
+"McIntosh, Oklahoma",40091,19611,5.9
+"Major, Oklahoma",40093,7652,2.1
+"Marshall, Oklahoma",40095,16190,3.8
+"Mayes, Oklahoma",40097,40583,3.4
+"Murray, Oklahoma",40099,13732,2.9
+"Muskogee, Oklahoma",40101,68304,4
+"Noble, Oklahoma",40103,11289,2.6
+"Nowata, Oklahoma",40105,10329,4.2
+"Okfuskee, Oklahoma",40107,11994,4.8
+"Oklahoma, Oklahoma",40109,770136,3.3
+"Okmulgee, Oklahoma",40111,38374,5
+"Osage, Oklahoma",40113,46858,4.3
+"Ottawa, Oklahoma",40115,31192,3.5
+"Pawnee, Oklahoma",40117,16240,4.2
+"Payne, Oklahoma",40119,80301,3
+"Pittsburg, Oklahoma",40121,43897,3.9
+"Pontotoc, Oklahoma",40123,37883,3.1
+"Pottawatomie, Oklahoma",40125,71188,3.7
+"Pushmataha, Oklahoma",40127,11016,5.2
+"Roger Mills, Oklahoma",40129,3687,2.4
+"Rogers, Oklahoma",40131,89902,3.3
+"Seminole, Oklahoma",40133,24746,4.8
+"Sequoyah, Oklahoma",40135,40776,4.3
+"Stephens, Oklahoma",40137,43507,4
+"Texas, Oklahoma",40139,20817,2.7
+"Tillman, Oklahoma",40141,7383,3.7
+"Tulsa, Oklahoma",40143,633780,3.4
+"Wagoner, Oklahoma",40145,77084,3.3
+"Washington, Oklahoma",40147,51310,3.9
+"Washita, Oklahoma",40149,11270,3.1
+"Woods, Oklahoma",40151,8889,2.2
+"Woodward, Oklahoma",40153,20703,2.7
+"Baker, Oregon",41001,15783,5.3
+"Benton, Oregon",41003,89132,3.1
+"Clackamas, Oregon",41005,401483,3.7
+"Clatsop, Oregon",41007,38194,4
+"Columbia, Oregon",41009,50266,5
+"Coos, Oregon",41011,62944,5.3
+"Crook, Oregon",41013,22176,5.9
+"Curry, Oregon",41015,22373,6
+"Deschutes, Oregon",41017,179174,4.1
+"Douglas, Oregon",41019,107314,5.3
+"Gilliam, Oregon",41021,1900,3.8
+"Grant, Oregon",41023,7110,7
+"Harney, Oregon",41025,7190,5.9
+"Hood River, Oregon",41027,22868,3.3
+"Jackson, Oregon",41029,212170,4.7
+"Jefferson, Oregon",41031,22893,5.4
+"Josephine, Oregon",41033,84501,5.4
+"Klamath, Oregon",41035,65553,6.2
+"Lake, Oregon",41037,7803,5.5
+"Lane, Oregon",41039,365369,4.4
+"Lincoln, Oregon",41041,47530,4.8
+"Linn, Oregon",41043,121459,4.6
+"Malheur, Oregon",41045,30092,4.5
+"Marion, Oregon",41047,331474,4.2
+"Morrow, Oregon",41049,11043,4.2
+"Multnomah, Oregon",41051,790395,3.6
+"Polk, Oregon",41053,80570,4.3
+"Sherman, Oregon",41055,1593,4
+"Tillamook, Oregon",41057,25863,4.3
+"Umatilla, Oregon",41059,75789,4.9
+"Union, Oregon",41061,25726,5.3
+"Wallowa, Oregon",41063,6862,5.8
+"Wasco, Oregon",41065,25623,4.2
+"Washington, Oregon",41067,575763,3.4
+"Wheeler, Oregon",41069,1420,3.3
+"Yamhill, Oregon",41071,102695,3.7
+"Adams, Pennsylvania",42001,101085,3.3
+"Allegheny, Pennsylvania",42003,1211947,4
+"Armstrong, Pennsylvania",42005,65706,5
+"Beaver, Pennsylvania",42007,165235,4.5
+"Bedford, Pennsylvania",42009,48143,4.4
+"Berks, Pennsylvania",42011,412417,4.1
+"Blair, Pennsylvania",42013,122621,4.2
+"Bradford, Pennsylvania",42015,60630,4.3
+"Bucks, Pennsylvania",42017,620428,3.7
+"Butler, Pennsylvania",42019,184583,3.8
+"Cambria, Pennsylvania",42021,133371,5.1
+"Cameron, Pennsylvania",42023,4603,4.9
+"Carbon, Pennsylvania",42025,63345,5
+"Centre, Pennsylvania",42027,160061,3.2
+"Chester, Pennsylvania",42029,511857,3.1
+"Clarion, Pennsylvania",42031,38461,4.8
+"Clearfield, Pennsylvania",42033,79624,4.9
+"Clinton, Pennsylvania",42035,38712,5.2
+"Columbia, Pennsylvania",42037,65666,4.7
+"Crawford, Pennsylvania",42039,85291,4.6
+"Cumberland, Pennsylvania",42041,244995,3.3
+"Dauphin, Pennsylvania",42043,271170,3.9
+"Delaware, Pennsylvania",42045,557444,4
+"Elk, Pennsylvania",42047,30337,3.8
+"Erie, Pennsylvania",42049,272943,4.6
+"Fayette, Pennsylvania",42051,130898,5.8
+"Forest, Pennsylvania",42053,7318,6.2
+"Franklin, Pennsylvania",42055,152008,3.7
+"Fulton, Pennsylvania",42057,14398,3.9
+"Greene, Pennsylvania",42059,36713,4.8
+"Huntingdon, Pennsylvania",42061,45027,5.2
+"Indiana, Pennsylvania",42063,84918,4.9
+"Jefferson, Pennsylvania",42065,43585,4.6
+"Juniata, Pennsylvania",42067,24297,4
+"Lackawanna, Pennsylvania",42069,209317,4.5
+"Lancaster, Pennsylvania",42071,531659,3.4
+"Lawrence, Pennsylvania",42073,86650,5
+"Lebanon, Pennsylvania",42075,137117,3.7
+"Lehigh, Pennsylvania",42077,358345,4.6
+"Luzerne, Pennsylvania",42079,315008,5.4
+"Lycoming, Pennsylvania",42081,113652,4.7
+"McKean, Pennsylvania",42083,41375,4.8
+"Mercer, Pennsylvania",42085,111409,4.7
+"Mifflin, Pennsylvania",42087,45858,4.6
+"Monroe, Pennsylvania",42089,166097,5.3
+"Montgomery, Pennsylvania",42091,812805,3.4
+"Montour, Pennsylvania",42093,18127,3.4
+"Northampton, Pennsylvania",42095,299125,4.4
+"Northumberland, Pennsylvania",42097,91172,5.2
+"Perry, Pennsylvania",42099,45443,3.7
+"Philadelphia, Pennsylvania",42101,1553951,5.5
+"Pike, Pennsylvania",42103,55197,5.3
+"Potter, Pennsylvania",42105,16818,5.3
+"Schuylkill, Pennsylvania",42107,142122,5.1
+"Snyder, Pennsylvania",42109,40026,3.9
+"Somerset, Pennsylvania",42111,74243,5
+"Sullivan, Pennsylvania",42113,6132,4.9
+"Susquehanna, Pennsylvania",42115,40972,4
+"Tioga, Pennsylvania",42117,40799,5.1
+"Union, Pennsylvania",42119,44710,3.7
+"Venango, Pennsylvania",42121,51957,4.9
+"Warren, Pennsylvania",42123,39651,4.4
+"Washington, Pennsylvania",42125,205406,4.3
+"Wayne, Pennsylvania",42127,51115,4.7
+"Westmoreland, Pennsylvania",42129,351675,4.4
+"Wyoming, Pennsylvania",42131,27380,4.5
+"York, Pennsylvania",42133,439146,3.8
+"Bristol, Rhode Island",44001,48547,3.4
+"Kent, Rhode Island",44003,162208,3.6
+"Newport, Rhode Island",44005,82451,3.5
+"Providence, Rhode Island",44007,627714,4.3
+"Washington, Rhode Island",44009,125331,3.5
+"Abbeville, South Carolina",45001,24408,4
+"Aiken, South Carolina",45003,165011,3.4
+"Allendale, South Carolina",45005,9138,5.8
+"Anderson, South Carolina",45007,193780,3.3
+"Bamberg, South Carolina",45009,14471,6.5
+"Barnwell, South Carolina",45011,21392,4.8
+"Beaufort, South Carolina",45013,180950,3.3
+"Berkeley, South Carolina",45015,206219,3.1
+"Calhoun, South Carolina",45017,14598,4.3
+"Charleston, South Carolina",45019,389453,2.8
+"Cherokee, South Carolina",45021,56118,3.7
+"Chester, South Carolina",45023,31867,4.9
+"Chesterfield, South Carolina",45025,45551,3.3
+"Clarendon, South Carolina",45027,33669,4.7
+"Colleton, South Carolina",45029,37265,4
+"Darlington, South Carolina",45031,66357,4.1
+"Dillon, South Carolina",45033,30465,4.9
+"Dorchester, South Carolina",45035,153799,3
+"Edgefield, South Carolina",45037,26646,3.5
+"Fairfield, South Carolina",45039,22527,6.3
+"Florence, South Carolina",45041,136629,3.6
+"Georgetown, South Carolina",45043,61263,4.6
+"Greenville, South Carolina",45045,491871,2.9
+"Greenwood, South Carolina",45047,69606,3.7
+"Hampton, South Carolina",45049,19683,3.4
+"Horry, South Carolina",45051,318317,4.3
+"Jasper, South Carolina",45053,27618,3
+"Kershaw, South Carolina",45055,63759,3.6
+"Lancaster, South Carolina",45057,88743,3.8
+"Laurens, South Carolina",45059,66041,3.6
+"Lee, South Carolina",45061,17384,4.6
+"Lexington, South Carolina",45063,282721,2.9
+"McCormick, South Carolina",45065,9571,3.5
+"Marion, South Carolina",45067,31067,5.6
+"Marlboro, South Carolina",45069,26846,5.1
+"Newberry, South Carolina",45071,37691,3.1
+"Oconee, South Carolina",45073,75850,3.4
+"Orangeburg, South Carolina",45075,87563,5.8
+"Pickens, South Carolina",45077,121394,3.4
+"Richland, South Carolina",45079,403535,3.5
+"Saluda, South Carolina",45081,20058,3.1
+"Spartanburg, South Carolina",45083,298887,3.1
+"Sumter, South Carolina",45085,105454,4.1
+"Union, South Carolina",45087,27411,4.2
+"Williamsburg, South Carolina",45089,31558,5.5
+"York, South Carolina",45091,255785,3.3
+"Aurora, South Dakota",46003,2739,2.9
+"Beadle, South Dakota",46005,18124,2.7
+"Bennett, South Dakota",46007,3382,4.5
+"Bon Homme, South Dakota",46009,6916,2.6
+"Brookings, South Dakota",46011,33853,2.9
+"Brown, South Dakota",46013,38408,2.9
+"Brule, South Dakota",46015,5137,2.7
+"Buffalo, South Dakota",46017,2010,6.1
+"Butte, South Dakota",46019,10079,3.3
+"Campbell, South Dakota",46021,1417,4.1
+"Charles Mix, South Dakota",46023,9187,3.2
+"Clark, South Dakota",46025,3603,4
+"Clay, South Dakota",46027,13713,2.9
+"Codington, South Dakota",46029,27503,3.1
+"Corson, South Dakota",46031,4089,4.1
+"Custer, South Dakota",46033,8509,4.1
+"Davison, South Dakota",46035,19656,2.6
+"Day, South Dakota",46037,5462,4.3
+"Deuel, South Dakota",46039,4218,4.5
+"Dewey, South Dakota",46041,5671,8.8
+"Douglas, South Dakota",46043,2899,2.7
+"Edmunds, South Dakota",46045,3925,2.7
+"Fall River, South Dakota",46047,6673,3.8
+"Faulk, South Dakota",46049,2268,3
+"Grant, South Dakota",46051,7096,3.2
+"Gregory, South Dakota",46053,4153,3.3
+"Haakon, South Dakota",46055,2066,2.6
+"Hamlin, South Dakota",46057,5892,3.2
+"Hand, South Dakota",46059,3251,2.3
+"Hanson, South Dakota",46061,3349,4.7
+"Harding, South Dakota",46063,1289,2.5
+"Hughes, South Dakota",46065,17420,2.6
+"Hutchinson, South Dakota",46067,7202,2.8
+"Hyde, South Dakota",46069,1304,2.9
+"Jackson, South Dakota",46071,3218,5
+"Jerauld, South Dakota",46073,2007,2.5
+"Jones, South Dakota",46075,727,2.7
+"Kingsbury, South Dakota",46077,4913,2.9
+"Lake, South Dakota",46079,12426,3.4
+"Lawrence, South Dakota",46081,25062,3
+"Lincoln, South Dakota",46083,54065,2.4
+"Lyman, South Dakota",46085,3799,4.2
+"McCook, South Dakota",46087,5431,2.6
+"McPherson, South Dakota",46089,2354,3.9
+"Marshall, South Dakota",46091,4749,3.9
+"Meade, South Dakota",46093,27090,3.4
+"Mellette, South Dakota",46095,2026,4.9
+"Miner, South Dakota",46097,2184,2.8
+"Minnehaha, South Dakota",46099,184195,2.7
+"Moody, South Dakota",46101,6412,3
+"Oglala Lakota, South Dakota",46102,14075,10.5
+"Pennington, South Dakota",46103,107980,3.1
+"Perkins, South Dakota",46105,2857,2.9
+"Potter, South Dakota",46107,2294,3.6
+"Roberts, South Dakota",46109,10134,4.4
+"Sanborn, South Dakota",46111,2366,3
+"Spink, South Dakota",46115,6509,3.5
+"Stanley, South Dakota",46117,2969,2.7
+"Sully, South Dakota",46119,1318,2.6
+"Todd, South Dakota",46121,9940,6.3
+"Tripp, South Dakota",46123,5429,2.5
+"Turner, South Dakota",46125,8163,2.8
+"Union, South Dakota",46127,15025,3.2
+"Walworth, South Dakota",46129,5429,5
+"Yankton, South Dakota",46135,22410,2.7
+"Ziebach, South Dakota",46137,2773,5.3
+"Anderson, Tennessee",47001,74977,3.8
+"Bedford, Tennessee",47003,46833,3.8
+"Benton, Tennessee",47005,15985,4.9
+"Bledsoe, Tennessee",47007,14531,6
+"Blount, Tennessee",47009,127461,3.2
+"Bradley, Tennessee",47011,103255,3.6
+"Campbell, Tennessee",47013,39400,4.8
+"Cannon, Tennessee",47015,13838,3.2
+"Carroll, Tennessee",47017,27706,5
+"Carter, Tennessee",47019,56112,4.2
+"Cheatham, Tennessee",47021,39572,2.8
+"Chester, Tennessee",47023,16957,3.8
+"Claiborne, Tennessee",47025,31218,4.3
+"Clay, Tennessee",47027,7608,4.9
+"Cocke, Tennessee",47029,35043,4.7
+"Coffee, Tennessee",47031,54091,3.6
+"Crockett, Tennessee",47033,14366,3.9
+"Cumberland, Tennessee",47035,58279,4.4
+"Davidson, Tennessee",47037,674601,2.7
+"Decatur, Tennessee",47039,11543,5.1
+"DeKalb, Tennessee",47041,19364,4.5
+"Dickson, Tennessee",47043,51216,3.1
+"Dyer, Tennessee",47045,37111,4.6
+"Fayette, Tennessee",47047,39349,3.8
+"Fentress, Tennessee",47049,17809,4.2
+"Franklin, Tennessee",47051,41112,3.4
+"Gibson, Tennessee",47053,48679,4.4
+"Giles, Tennessee",47055,28834,3.7
+"Grainger, Tennessee",47057,22810,4
+"Greene, Tennessee",47059,67934,4.7
+"Grundy, Tennessee",47061,13108,4.5
+"Hamblen, Tennessee",47063,62988,3.8
+"Hamilton, Tennessee",47065,353338,3.4
+"Hancock, Tennessee",47067,6501,4.9
+"Hardeman, Tennessee",47069,25450,4.9
+"Hardin, Tennessee",47071,25467,4.4
+"Hawkins, Tennessee",47073,55842,4
+"Haywood, Tennessee",47075,17586,5.4
+"Henderson, Tennessee",47077,27547,4.7
+"Henry, Tennessee",47079,31961,4.2
+"Hickman, Tennessee",47081,24376,3.3
+"Houston, Tennessee",47083,8087,5.5
+"Humphreys, Tennessee",47085,18178,4.3
+"Jackson, Tennessee",47087,11537,4.7
+"Jefferson, Tennessee",47089,52654,3.8
+"Johnson, Tennessee",47091,17712,3.5
+"Knox, Tennessee",47093,451423,3
+"Lake, Tennessee",47095,7484,5.2
+"Lauderdale, Tennessee",47097,25911,5.8
+"Lawrence, Tennessee",47099,42306,4
+"Lewis, Tennessee",47101,11924,4.5
+"Lincoln, Tennessee",47103,33414,3.1
+"Loudon, Tennessee",47105,51168,3.4
+"McMinn, Tennessee",47107,52219,4.1
+"McNairy, Tennessee",47109,25648,5.5
+"Macon, Tennessee",47111,23195,3.2
+"Madison, Tennessee",47113,96351,3.8
+"Marion, Tennessee",47115,28205,4.7
+"Marshall, Tennessee",47117,31902,3.5
+"Maury, Tennessee",47119,88842,3.2
+"Meigs, Tennessee",47121,11884,4.6
+"Monroe, Tennessee",47123,45291,3.7
+"Montgomery, Tennessee",47125,193128,3.9
+"Moore, Tennessee",47127,6298,3.1
+"Morgan, Tennessee",47129,21367,4.5
+"Obion, Tennessee",47131,30163,5
+"Overton, Tennessee",47133,21685,3.8
+"Perry, Tennessee",47135,7797,4.3
+"Pickett, Tennessee",47137,5059,3.9
+"Polk, Tennessee",47139,16740,4.2
+"Putnam, Tennessee",47141,75452,3.6
+"Rhea, Tennessee",47143,32120,5.7
+"Roane, Tennessee",47145,52463,4.2
+"Robertson, Tennessee",47147,68528,3.2
+"Rutherford, Tennessee",47149,303499,2.7
+"Scott, Tennessee",47151,21621,4.4
+"Sequatchie, Tennessee",47153,14632,4.3
+"Sevier, Tennessee",47155,95357,3.5
+"Shelby, Tennessee",47157,924864,4.2
+"Smith, Tennessee",47159,19245,3.1
+"Stewart, Tennessee",47161,13149,5
+"Sullivan, Tennessee",47163,155378,3.7
+"Sumner, Tennessee",47165,177477,2.8
+"Tipton, Tennessee",47167,60866,4.2
+"Trousdale, Tennessee",47169,9337,3.3
+"Unicoi, Tennessee",47171,17663,4.9
+"Union, Tennessee",47173,19193,4.1
+"Van Buren, Tennessee",47175,5655,4.8
+"Warren, Tennessee",47177,40001,4
+"Washington, Tennessee",47179,125723,3.6
+"Wayne, Tennessee",47181,16481,4.8
+"Weakley, Tennessee",47183,33267,4.2
+"White, Tennessee",47185,26343,3.6
+"Williamson, Tennessee",47187,216471,2.5
+"Wilson, Tennessee",47189,131588,2.8
+"Anderson, Texas",48001,57490,3.1
+"Andrews, Texas",48003,17506,2.4
+"Angelina, Texas",48005,86665,4.3
+"Aransas, Texas",48007,24365,5.9
+"Archer, Texas",48009,8721,3
+"Armstrong, Texas",48011,1902,2.7
+"Atascosa, Texas",48013,48112,3.7
+"Austin, Texas",48015,29325,3.6
+"Bailey, Texas",48017,7064,4.4
+"Bandera, Texas",48019,21683,3.4
+"Bastrop, Texas",48021,81341,3.4
+"Baylor, Texas",48023,3560,3.2
+"Bee, Texas",48025,32300,5.1
+"Bell, Texas",48027,336008,4.1
+"Bexar, Texas",48029,1898949,3.3
+"Blanco, Texas",48031,11158,2.6
+"Borden, Texas",48033,645,3.2
+"Bosque, Texas",48035,17985,3.7
+"Bowie, Texas",48037,92817,4.9
+"Brazoria, Texas",48039,349706,4.5
+"Brazos, Texas",48041,216532,2.8
+"Brewster, Texas",48043,9185,3.3
+"Briscoe, Texas",48045,1537,3.8
+"Brooks, Texas",48047,7098,6.4
+"Brown, Texas",48049,37546,3.7
+"Burleson, Texas",48051,17624,3.6
+"Burnet, Texas",48053,45475,2.9
+"Caldwell, Texas",48055,40795,3.6
+"Calhoun, Texas",48057,21541,4.1
+"Callahan, Texas",48059,13613,3.3
+"Cameron, Texas",48061,415868,6.1
+"Camp, Texas",48063,12628,4.9
+"Carson, Texas",48065,5959,2.8
+"Cass, Texas",48067,29811,5
+"Castro, Texas",48069,7720,2.8
+"Chambers, Texas",48071,39792,5.4
+"Cherokee, Texas",48073,51267,4.1
+"Childress, Texas",48075,7099,2.6
+"Clay, Texas",48077,10257,3.1
+"Cochran, Texas",48079,2818,4.3
+"Coke, Texas",48081,3227,3.4
+"Coleman, Texas",48083,8345,3.9
+"Collin, Texas",48085,933686,3.3
+"Collingsworth, Texas",48087,2966,3.1
+"Colorado, Texas",48089,20633,3.3
+"Comal, Texas",48091,133596,3.2
+"Comanche, Texas",48093,13298,3.6
+"Concho, Texas",48095,4210,3.6
+"Cooke, Texas",48097,39218,3.1
+"Coryell, Texas",48099,74307,4.2
+"Cottle, Texas",48101,1566,4.3
+"Crane, Texas",48103,4748,3.8
+"Crockett, Texas",48105,3610,2.9
+"Crosby, Texas",48107,5732,4.6
+"Culberson, Texas",48109,2176,3.1
+"Dallam, Texas",48111,7035,2
+"Dallas, Texas",48113,2549268,3.8
+"Dawson, Texas",48115,12880,4.3
+"Deaf Smith, Texas",48117,18537,2.8
+"Delta, Texas",48119,5173,3.4
+"Denton, Texas",48121,797469,3.2
+"DeWitt, Texas",48123,20212,3.1
+"Dickens, Texas",48125,2199,4.2
+"Dimmit, Texas",48127,10592,3
+"Donley, Texas",48129,3350,3.4
+"Duval, Texas",48131,11328,5.2
+"Eastland, Texas",48133,18100,3.3
+"Ector, Texas",48135,155782,2.7
+"Edwards, Texas",48137,2055,2.8
+"Ellis, Texas",48139,166690,3.3
+"El Paso, Texas",48141,823925,4.2
+"Erath, Texas",48143,40910,3.1
+"Falls, Texas",48145,17121,3.9
+"Fannin, Texas",48147,33892,3.1
+"Fayette, Texas",48149,24799,2.8
+"Fisher, Texas",48151,3813,3.2
+"Floyd, Texas",48153,5838,5.2
+"Foard, Texas",48155,1397,2.9
+"Fort Bend, Texas",48157,731410,3.9
+"Franklin, Texas",48159,10595,4.1
+"Freestone, Texas",48161,19460,5.8
+"Frio, Texas",48163,19178,2.8
+"Gaines, Texas",48165,19853,2.5
+"Galveston, Texas",48167,322880,4.6
+"Garza, Texas",48169,6251,2.9
+"Gillespie, Texas",48171,26067,2.5
+"Glasscock, Texas",48173,1392,2
+"Goliad, Texas",48175,7434,3.8
+"Gonzales, Texas",48177,20295,3
+"Gray, Texas",48179,22448,3.9
+"Grayson, Texas",48181,126925,3.3
+"Gregg, Texas",48183,121644,4.1
+"Grimes, Texas",48185,27471,4.1
+"Guadalupe, Texas",48187,153636,3.1
+"Hale, Texas",48189,33625,4.7
+"Hall, Texas",48191,3058,4.4
+"Hamilton, Texas",48193,8242,3.3
+"Hansford, Texas",48195,5471,2.3
+"Hardeman, Texas",48197,3897,3.6
+"Hardin, Texas",48199,55576,5.1
+"Harris, Texas",48201,4534472,4.4
+"Harrison, Texas",48203,65974,4.3
+"Hartley, Texas",48205,5691,1.8
+"Haskell, Texas",48207,5743,3.8
+"Hays, Texas",48209,202131,2.9
+"Hemphill, Texas",48211,4008,2
+"Henderson, Texas",48213,79347,3.7
+"Hidalgo, Texas",48215,836243,6.5
+"Hill, Texas",48217,34979,3.6
+"Hockley, Texas",48219,22851,3.1
+"Hood, Texas",48221,56276,3.7
+"Hopkins, Texas",48223,35803,3.4
+"Houston, Texas",48225,22698,3.7
+"Howard, Texas",48227,36238,3.3
+"Hudspeth, Texas",48229,4014,4.6
+"Hunt, Texas",48231,91226,3.8
+"Hutchinson, Texas",48233,21243,4.9
+"Irion, Texas",48235,1520,3
+"Jack, Texas",48237,8766,2.5
+"Jackson, Texas",48239,14634,3.2
+"Jasper, Texas",48241,35170,6.5
+"Jeff Davis, Texas",48243,2234,2.9
+"Jefferson, Texas",48245,251917,6.3
+"Jim Hogg, Texas",48247,5159,5.6
+"Jim Wells, Texas",48249,40565,5.4
+"Johnson, Texas",48251,160852,3.4
+"Jones, Texas",48253,19664,4.8
+"Karnes, Texas",48255,15223,2.8
+"Kaufman, Texas",48257,117146,3.4
+"Kendall, Texas",48259,41653,2.9
+"Kenedy, Texas",48261,568,3.6
+"Kent, Texas",48263,731,2.4
+"Kerr, Texas",48265,50786,3.2
+"Kimble, Texas",48267,4321,3
+"King, Texas",48269,228,2.8
+"Kinney, Texas",48271,3675,4.4
+"Kleberg, Texas",48273,31160,4.9
+"Knox, Texas",48275,3683,3.6
+"Lamar, Texas",48277,48907,3.8
+"Lamb, Texas",48279,13099,4.4
+"Lampasas, Texas",48281,20509,3.7
+"La Salle, Texas",48283,7290,2.4
+"Lavaca, Texas",48285,19699,3.1
+"Lee, Texas",48287,16785,3
+"Leon, Texas",48289,16838,5
+"Liberty, Texas",48291,80972,5.8
+"Limestone, Texas",48293,23186,4.6
+"Lipscomb, Texas",48295,3395,2.7
+"Live Oak, Texas",48297,12001,3.7
+"Llano, Texas",48299,20442,3.7
+"Loving, Texas",48301,96,1.5
+"Lubbock, Texas",48303,296940,3
+"Lynn, Texas",48305,5760,3.2
+"McCulloch, Texas",48307,7977,3.3
+"McLennan, Texas",48309,245054,3.6
+"McMullen, Texas",48311,657,1.8
+"Madison, Texas",48313,14006,4.4
+"Marion, Texas",48315,10008,4.5
+"Martin, Texas",48317,5582,2.5
+"Mason, Texas",48319,4149,3.1
+"Matagorda, Texas",48321,36396,6.1
+"Maverick, Texas",48323,56888,8.1
+"Medina, Texas",48325,48748,3.5
+"Menard, Texas",48327,2114,4
+"Midland, Texas",48329,161210,2.1
+"Milam, Texas",48331,24510,5.5
+"Mills, Texas",48333,4860,3.5
+"Mitchell, Texas",48335,8516,4.1
+"Montague, Texas",48337,19144,3.2
+"Montgomery, Texas",48339,546199,3.7
+"Moore, Texas",48341,21339,2.6
+"Morris, Texas",48343,12284,6.5
+"Motley, Texas",48345,1137,3.7
+"Nacogdoches, Texas",48347,64800,3.9
+"Navarro, Texas",48349,47708,3.7
+"Newton, Texas",48351,13897,6.7
+"Nolan, Texas",48353,14738,3.3
+"Nueces, Texas",48355,355356,4.6
+"Ochiltree, Texas",48357,10147,2.8
+"Oldham, Texas",48359,2078,2.6
+"Orange, Texas",48361,83001,5.7
+"Palo Pinto, Texas",48363,28131,3.3
+"Panola, Texas",48365,23225,4.1
+"Parker, Texas",48367,128393,3.1
+"Parmer, Texas",48369,9653,2.3
+"Pecos, Texas",48371,15641,3.6
+"Polk, Texas",48373,47410,5
+"Potter, Texas",48375,118788,2.9
+"Presidio, Texas",48377,6918,6.9
+"Rains, Texas",48379,11398,3.5
+"Randall, Texas",48381,131022,2.6
+"Reagan, Texas",48383,3682,2.5
+"Real, Texas",48385,3342,5
+"Red River, Texas",48387,12177,5.4
+"Reeves, Texas",48389,14958,2.1
+"Refugio, Texas",48391,7189,4.6
+"Roberts, Texas",48393,882,2.8
+"Robertson, Texas",48395,16721,4.1
+"Rockwall, Texas",48397,92124,3.2
+"Runnels, Texas",48399,10263,3.1
+"Rusk, Texas",48401,52848,4
+"Sabine, Texas",48403,10314,7.9
+"San Augustine, Texas",48405,8247,6.4
+"San Jacinto, Texas",48407,27533,4.9
+"San Patricio, Texas",48409,66078,6.3
+"San Saba, Texas",48411,5902,3
+"Schleicher, Texas",48413,3047,2.8
+"Scurry, Texas",48415,16979,3.4
+"Shackelford, Texas",48417,3265,2.3
+"Shelby, Texas",48419,25057,4.3
+"Sherman, Texas",48421,3025,2.6
+"Smith, Texas",48423,222459,3.6
+"Somervell, Texas",48425,8657,4.1
+"Starr, Texas",48427,62564,10
+"Stephens, Texas",48429,9242,3.6
+"Sterling, Texas",48431,1136,3.3
+"Stonewall, Texas",48433,1372,3.4
+"Sutton, Texas",48435,3809,3.8
+"Swisher, Texas",48437,7433,4.3
+"Tarrant, Texas",48439,1991418,3.5
+"Taylor, Texas",48441,134372,3.1
+"Terrell, Texas",48443,861,3.4
+"Terry, Texas",48445,12522,4.1
+"Throckmorton, Texas",48447,1559,3.3
+"Titus, Texas",48449,32345,5
+"Tom Green, Texas",48451,116048,3.1
+"Travis, Texas",48453,1188298,2.8
+"Trinity, Texas",48455,14442,5.1
+"Tyler, Texas",48457,21394,6.6
+"Upshur, Texas",48459,40268,4.2
+"Upton, Texas",48461,3588,3.4
+"Uvalde, Texas",48463,26554,4.2
+"Val Verde, Texas",48465,48192,3.8
+"Van Zandt, Texas",48467,53634,3.5
+"Victoria, Texas",48469,90750,3.8
+"Walker, Texas",48471,70991,4.2
+"Waller, Texas",48473,49463,4.2
+"Ward, Texas",48475,11380,2.5
+"Washington, Texas",48477,34588,3.6
+"Webb, Texas",48479,266852,3.7
+"Wharton, Texas",48481,41121,3.7
+"Wheeler, Texas",48483,5405,3.1
+"Wichita, Texas",48485,130063,3.4
+"Wilbarger, Texas",48487,12810,4.1
+"Willacy, Texas",48489,21462,9.8
+"Williamson, Texas",48491,520692,3
+"Wilson, Texas",48493,47464,3.1
+"Winkler, Texas",48495,7642,2.8
+"Wise, Texas",48497,63850,3.4
+"Wood, Texas",48499,43377,4.2
+"Yoakum, Texas",48501,8423,2.9
+"Young, Texas",48503,17992,3.2
+"Zapata, Texas",48505,14069,5.5
+"Zavala, Texas",48507,12041,9.6
+"Beaver, Utah",49001,6341,3.4
+"Box Elder, Utah",49003,52050,2.9
+"Cache, Utah",49005,120149,2.6
+"Carbon, Utah",49007,20082,4.4
+"Daggett, Utah",49009,607,4.3
+"Davis, Utah",49011,335045,2.9
+"Duchesne, Utah",49013,19894,4.4
+"Emery, Utah",49015,10201,4.7
+"Garfield, Utah",49017,4993,7.6
+"Grand, Utah",49019,9458,4.6
+"Iron, Utah",49021,48942,3.5
+"Juab, Utah",49023,10843,2.9
+"Kane, Utah",49025,7238,3.1
+"Millard, Utah",49027,12557,3.2
+"Morgan, Utah",49029,11277,2.7
+"Piute, Utah",49031,1896,5.2
+"Rich, Utah",49033,2319,3.2
+"Salt Lake, Utah",49035,1103789,2.9
+"San Juan, Utah",49037,15098,6.1
+"Sanpete, Utah",49039,28999,3.6
+"Sevier, Utah",49041,20792,3.5
+"Summit, Utah",49043,40111,3
+"Tooele, Utah",49045,64112,3.3
+"Uintah, Utah",49047,35848,4.6
+"Utah, Utah",49049,579151,2.8
+"Wasatch, Utah",49051,30135,3.1
+"Washington, Utah",49053,158573,3.3
+"Wayne, Utah",49055,2663,5.9
+"Weber, Utah",49057,243963,3.4
+"Addison, Vermont",50001,36667,2.4
+"Bennington, Vermont",50003,35680,3
+"Caledonia, Vermont",50005,30217,3.1
+"Chittenden, Vermont",50007,160462,2
+"Essex, Vermont",50009,6167,3.5
+"Franklin, Vermont",50011,48494,2.4
+"Grand Isle, Vermont",50013,6916,3.1
+"Lamoille, Vermont",50015,25048,3.4
+"Orange, Vermont",50017,28672,2.5
+"Orleans, Vermont",50019,26679,4.3
+"Rutland, Vermont",50021,58797,3
+"Washington, Vermont",50023,58025,2.5
+"Windham, Vermont",50025,42843,2.7
+"Windsor, Vermont",50027,54832,2.2
+"Accomack, Virginia",51001,32181,3.9
+"Albemarle, Virginia",51003,105076,2.7
+"Alleghany, Virginia",51005,15121,3.8
+"Amelia, Virginia",51007,12722,3.3
+"Amherst, Virginia",51009,31597,3.3
+"Appomattox, Virginia",51011,15404,3.7
+"Arlington, Virginia",51013,228680,2
+"Augusta, Virginia",51015,74085,2.8
+"Bath, Virginia",51017,4359,2.5
+"Bedford, Virginia",51019,77032,3.1
+"Bland, Virginia",51021,6423,3.2
+"Botetourt, Virginia",51023,33076,2.7
+"Brunswick, Virginia",51025,16511,5
+"Buchanan, Virginia",51027,22009,5.5
+"Buckingham, Virginia",51029,16816,4.5
+"Campbell, Virginia",51031,54591,3.4
+"Caroline, Virginia",51033,29859,3.5
+"Carroll, Virginia",51035,29473,3.7
+"Charles City, Virginia",51036,6929,4.1
+"Charlotte, Virginia",51037,12017,3.7
+"Chesterfield, Virginia",51041,335315,3
+"Clarke, Virginia",51043,14234,2.9
+"Craig, Virginia",51045,5039,3.6
+"Culpeper, Virginia",51047,50001,2.9
+"Cumberland, Virginia",51049,9676,3.3
+"Dickenson, Virginia",51051,14777,5.2
+"Dinwiddie, Virginia",51053,28049,3.6
+"Essex, Virginia",51057,10906,3.9
+"Fairfax, Virginia",51059,1129754,2.5
+"Fauquier, Virginia",51061,68456,2.6
+"Floyd, Virginia",51063,15412,2.8
+"Fluvanna, Virginia",51065,26100,2.5
+"Franklin, Virginia",51067,55706,3.1
+"Frederick, Virginia",51069,84159,2.6
+"Giles, Virginia",51071,16671,3.4
+"Gloucester, Virginia",51073,36833,2.7
+"Goochland, Virginia",51075,22360,3
+"Grayson, Virginia",51077,15689,3.1
+"Greene, Virginia",51079,19303,2.6
+"Greensville, Virginia",51081,11603,3.7
+"Halifax, Virginia",51083,34479,4.2
+"Hanover, Virginia",51085,103510,2.7
+"Henrico, Virginia",51087,321782,3
+"Henry, Virginia",51089,51083,3.8
+"Highland, Virginia",51091,2196,2.8
+"Isle of Wight, Virginia",51093,36114,3
+"James City, Virginia",51095,73461,2.9
+"King and Queen, Virginia",51097,6959,3.1
+"King George, Virginia",51099,25556,3
+"King William, Virginia",51101,16330,3
+"Lancaster, Virginia",51103,10726,4.4
+"Lee, Virginia",51105,23938,4.2
+"Loudoun, Virginia",51107,380147,2.5
+"Louisa, Virginia",51109,34996,2.8
+"Lunenburg, Virginia",51111,12162,3.3
+"Madison, Virginia",51113,13012,2.5
+"Mathews, Virginia",51115,8706,3
+"Mecklenburg, Virginia",51117,30587,4.1
+"Middlesex, Virginia",51119,10616,2.7
+"Montgomery, Virginia",51121,96994,3
+"Nelson, Virginia",51125,14676,3.1
+"New Kent, Virginia",51127,20990,2.8
+"Northampton, Virginia",51131,11847,5.5
+"Northumberland, Virginia",51133,12183,4.5
+"Nottoway, Virginia",51135,15286,3.1
+"Orange, Virginia",51137,35286,3.1
+"Page, Virginia",51139,23495,4.2
+"Patrick, Virginia",51141,17793,3.9
+"Pittsylvania, Virginia",51143,61207,3.6
+"Powhatan, Virginia",51145,28171,2.7
+"Prince Edward, Virginia",51147,22707,3.9
+"Prince George, Virginia",51149,37524,3.7
+"Prince William, Virginia",51153,450809,2.8
+"Pulaski, Virginia",51155,33957,3.5
+"Rappahannock, Virginia",51157,7290,2.8
+"Richmond, Virginia",51159,8792,3.2
+"Roanoke, Virginia",51161,92841,2.8
+"Rockbridge, Virginia",51163,22309,3
+"Rockingham, Virginia",51165,78623,2.7
+"Russell, Virginia",51167,27193,4.3
+"Scott, Virginia",51169,21915,3.3
+"Shenandoah, Virginia",51171,42564,2.9
+"Smyth, Virginia",51173,30755,4
+"Southampton, Virginia",51175,17796,2.8
+"Spotsylvania, Virginia",51177,129927,3.1
+"Stafford, Virginia",51179,142211,3
+"Surry, Virginia",51181,6581,3.5
+"Sussex, Virginia",51183,11376,5
+"Tazewell, Virginia",51185,41365,4.5
+"Warren, Virginia",51187,38887,3.1
+"Washington, Virginia",51191,53984,3.4
+"Westmoreland, Virginia",51193,17361,3.7
+"Wise, Virginia",51195,38616,5
+"Wythe, Virginia",51197,28719,3.8
+"York, Virginia",51199,66893,2.8
+"Alexandria city, Virginia",51510,154062,2.3
+"Bristol city, Virginia",51520,16627,3.8
+"Buena Vista city, Virginia",51530,6296,3.2
+"Charlottesville city, Virginia",51540,46589,2.6
+"Chesapeake city, Virginia",51550,234426,3.1
+"Colonial Heights city, Virginia",51570,17404,3.4
+"Covington city, Virginia",51580,5534,4.8
+"Danville city, Virginia",51590,41188,5.1
+"Emporia city, Virginia",51595,5355,4.8
+"Fairfax city, Virginia",51600,23525,2.3
+"Falls Church city, Virginia",51610,13895,2.2
+"Franklin city, Virginia",51620,8102,4.4
+"Fredericksburg city, Virginia",51630,27831,3.5
+"Galax city, Virginia",51640,6560,3.5
+"Hampton city, Virginia",51650,134159,4.1
+"Harrisonburg city, Virginia",51660,52709,3.5
+"Hopewell city, Virginia",51670,22108,4.9
+"Lexington city, Virginia",51678,7076,4.8
+"Lynchburg city, Virginia",51680,78905,4.1
+"Manassas city, Virginia",51683,40826,2.7
+"Manassas Park city, Virginia",51685,16292,2.8
+"Martinsville city, Virginia",51690,12743,4.7
+"Newport News city, Virginia",51700,177780,3.7
+"Norfolk city, Virginia",51710,242017,3.7
+"Norton city, Virginia",51720,3935,4
+"Petersburg city, Virginia",51730,31424,6.2
+"Poquoson city, Virginia",51735,11984,2.7
+"Portsmouth city, Virginia",51740,93874,4.1
+"Radford city, Virginia",51750,17543,3.9
+"Richmond city, Virginia",51760,221078,3.6
+"Roanoke city, Virginia",51770,98132,3.3
+"Salem city, Virginia",51775,25270,3
+"Staunton city, Virginia",51790,24185,2.9
+"Suffolk city, Virginia",51800,87710,3.3
+"Virginia Beach city, Virginia",51810,444046,2.9
+"Waynesboro city, Virginia",51820,21734,3.3
+"Williamsburg city, Virginia",51830,14710,4.1
+"Winchester city, Virginia",51840,27194,3
+"Adams, Washington",53001,19171,5.6
+"Asotin, Washington",53003,22146,4.4
+"Benton, Washington",53005,191649,5.4
+"Chelan, Washington",53007,75066,4.7
+"Clallam, Washington",53009,73860,6.5
+"Clark, Washington",53011,460266,4.9
+"Columbia, Washington",53013,3973,5.7
+"Cowlitz, Washington",53015,103793,6.1
+"Douglas, Washington",53017,40860,5.5
+"Ferry, Washington",53019,7481,11.9
+"Franklin, Washington",53021,89253,6.2
+"Garfield, Washington",53023,2191,6
+"Grant, Washington",53025,93311,6.4
+"Grays Harbor, Washington",53027,71270,6.9
+"Island, Washington",53029,80764,5.4
+"Jefferson, Washington",53031,30668,5.9
+"King, Washington",53033,2138336,3.2
+"Kitsap, Washington",53035,259484,4.7
+"Kittitas, Washington",53037,44425,5.6
+"Klickitat, Washington",53039,21273,5.8
+"Lewis, Washington",53041,76235,6.4
+"Lincoln, Washington",53043,10352,5
+"Mason, Washington",53045,61986,6.5
+"Okanogan, Washington",53047,41161,6.6
+"Pacific, Washington",53049,21066,7.1
+"Pend Oreille, Washington",53051,13136,7.3
+"Pierce, Washington",53053,848536,5.3
+"San Juan, Washington",53055,16397,4
+"Skagit, Washington",53057,122859,5.3
+"Skamania, Washington",53059,11573,5.7
+"Snohomish, Washington",53061,777187,3.5
+"Spokane, Washington",53063,492075,5.4
+"Stevens, Washington",53065,43841,7.3
+"Thurston, Washington",53067,272020,4.9
+"Wahkiakum, Washington",53069,4183,6.8
+"Walla Walla, Washington",53071,59604,4.8
+"Whatcom, Washington",53073,214635,4.9
+"Whitman, Washington",53075,48177,4.5
+"Yakima, Washington",53077,245965,6.5
+"Barbour, West Virginia",54001,16458,6
+"Berkeley, West Virginia",54003,111885,4
+"Boone, West Virginia",54005,22573,6.1
+"Braxton, West Virginia",54007,14146,7
+"Brooke, West Virginia",54009,22540,6.1
+"Cabell, West Virginia",54011,94494,4.7
+"Calhoun, West Virginia",54013,7343,10.4
+"Clay, West Virginia",54015,8666,8.4
+"Doddridge, West Virginia",54017,8456,3.9
+"Fayette, West Virginia",54019,43590,6.3
+"Gilmer, West Virginia",54021,8153,6.3
+"Grant, West Virginia",54023,11514,5.7
+"Greenbrier, West Virginia",54025,34980,5
+"Hampshire, West Virginia",54027,23132,4.2
+"Hancock, West Virginia",54029,29484,5.8
+"Hardy, West Virginia",54031,13654,5.5
+"Harrison, West Virginia",54033,67630,4.5
+"Jackson, West Virginia",54035,28771,4
+"Jefferson, West Virginia",54037,55579,3.3
+"Kanawha, West Virginia",54039,183715,5.1
+"Lewis, West Virginia",54041,16035,5.5
+"Lincoln, West Virginia",54043,20860,6.9
+"Logan, West Virginia",54045,33287,6.9
+"McDowell, West Virginia",54047,19039,9.3
+"Marion, West Virginia",54049,55875,5.7
+"Marshall, West Virginia",54051,31356,5.8
+"Mason, West Virginia",54053,26603,6.9
+"Mercer, West Virginia",54055,59797,6.2
+"Mineral, West Virginia",54057,26914,5.5
+"Mingo, West Virginia",54059,24516,7.5
+"Monongalia, West Virginia",54061,104267,4.1
+"Monroe, West Virginia",54063,13369,4.8
+"Morgan, West Virginia",54065,17474,4.3
+"Nicholas, West Virginia",54067,25026,6.4
+"Ohio, West Virginia",54069,42121,4.6
+"Pendleton, West Virginia",54071,6976,3.7
+"Pleasants, West Virginia",54073,7411,6.2
+"Pocahontas, West Virginia",54075,8431,6.1
+"Preston, West Virginia",54077,33463,5.2
+"Putnam, West Virginia",54079,56211,4.9
+"Raleigh, West Virginia",54081,75599,5.2
+"Randolph, West Virginia",54083,28812,5.5
+"Ritchie, West Virginia",54085,9860,5.3
+"Roane, West Virginia",54087,14060,7.8
+"Summers, West Virginia",54089,12898,6.1
+"Taylor, West Virginia",54091,16747,4.8
+"Tucker, West Virginia",54093,6983,5.5
+"Tyler, West Virginia",54095,8869,7.2
+"Upshur, West Virginia",54097,24357,5.7
+"Wayne, West Virginia",54099,40312,5.9
+"Webster, West Virginia",54101,8416,6.3
+"Wetzel, West Virginia",54103,15405,7.1
+"Wirt, West Virginia",54105,5734,6.9
+"Wood, West Virginia",54107,84564,5.4
+"Wyoming, West Virginia",54109,21555,6.9
+"Adams, Wisconsin",55001,19964,4.7
+"Ashland, Wisconsin",55003,15519,4.3
+"Barron, Wisconsin",55005,44731,3.4
+"Bayfield, Wisconsin",55007,14905,4.9
+"Brown, Wisconsin",55009,256506,2.7
+"Buffalo, Wisconsin",55011,13001,3.4
+"Burnett, Wisconsin",55013,15156,4.6
+"Calumet, Wisconsin",55015,49148,2.6
+"Chippewa, Wisconsin",55017,62859,3.3
+"Clark, Wisconsin",55019,33842,2.9
+"Columbia, Wisconsin",55021,56519,2.7
+"Crawford, Wisconsin",55023,16091,3.7
+"Dane, Wisconsin",55025,523478,2.2
+"Dodge, Wisconsin",55027,86916,2.6
+"Door, Wisconsin",55029,27209,3.6
+"Douglas, Wisconsin",55031,42971,4
+"Dunn, Wisconsin",55033,44073,3.1
+"Eau Claire, Wisconsin",55035,101850,2.6
+"Florence, Wisconsin",55037,4314,3.8
+"Fond du Lac, Wisconsin",55039,101390,2.6
+"Forest, Wisconsin",55041,8916,4.8
+"Grant, Wisconsin",55043,51309,2.8
+"Green, Wisconsin",55045,36502,2.6
+"Green Lake, Wisconsin",55047,18540,3.3
+"Iowa, Wisconsin",55049,23383,2.6
+"Iron, Wisconsin",55051,5688,5.8
+"Jackson, Wisconsin",55053,20251,3.1
+"Jefferson, Wisconsin",55055,83827,2.9
+"Juneau, Wisconsin",55057,26132,3.1
+"Kenosha, Wisconsin",55059,166235,3.5
+"Kewaunee, Wisconsin",55061,20102,2.9
+"La Crosse, Wisconsin",55063,116556,2.6
+"Lafayette, Wisconsin",55065,16502,2.3
+"Langlade, Wisconsin",55067,18957,4
+"Lincoln, Wisconsin",55069,27603,3.1
+"Manitowoc, Wisconsin",55071,78794,3.1
+"Marathon, Wisconsin",55073,133603,2.6
+"Marinette, Wisconsin",55075,40220,4
+"Marquette, Wisconsin",55077,15048,3.5
+"Menominee, Wisconsin",55078,4502,5.7
+"Milwaukee, Wisconsin",55079,942433,3.6
+"Monroe, Wisconsin",55081,44720,2.7
+"Oconto, Wisconsin",55083,37276,3.3
+"Oneida, Wisconsin",55085,35035,3.6
+"Outagamie, Wisconsin",55087,182579,2.8
+"Ozaukee, Wisconsin",55089,87464,2.5
+"Pepin, Wisconsin",55091,7206,3.3
+"Pierce, Wisconsin",55093,41162,3.2
+"Polk, Wisconsin",55095,42865,3.7
+"Portage, Wisconsin",55097,70042,3
+"Price, Wisconsin",55099,13427,3.7
+"Racine, Wisconsin",55101,192915,3.6
+"Richland, Wisconsin",55103,17355,2.6
+"Rock, Wisconsin",55105,160177,3.2
+"Rusk, Wisconsin",55107,14056,4
+"St. Croix, Wisconsin",55109,86845,3
+"Sauk, Wisconsin",55111,62942,2.6
+"Sawyer, Wisconsin",55113,16261,4.3
+"Shawano, Wisconsin",55115,40544,3
+"Sheboygan, Wisconsin",55117,114004,2.5
+"Taylor, Wisconsin",55119,20116,3.1
+"Trempealeau, Wisconsin",55121,29069,2.9
+"Vernon, Wisconsin",55123,30141,2.9
+"Vilas, Wisconsin",55125,21424,4
+"Walworth, Wisconsin",55127,102117,2.9
+"Washburn, Wisconsin",55129,15514,3.9
+"Washington, Wisconsin",55131,133148,2.5
+"Waukesha, Wisconsin",55133,394876,2.6
+"Waupaca, Wisconsin",55135,50879,2.9
+"Waushara, Wisconsin",55137,23922,3.5
+"Winnebago, Wisconsin",55139,168118,2.7
+"Wood, Wisconsin",55141,72523,3.5
+"Albany, Wyoming",56001,37787,3.2
+"Big Horn, Wyoming",56003,11750,4.5
+"Campbell, Wyoming",56005,47157,3.9
+"Carbon, Wyoming",56007,15243,3.6
+"Converse, Wyoming",56009,13733,3.5
+"Crook, Wyoming",56011,7319,3.1
+"Fremont, Wyoming",56013,39531,5
+"Goshen, Wyoming",56015,13300,3.2
+"Hot Springs, Wyoming",56017,4636,3.5
+"Johnson, Wyoming",56019,8429,3.8
+"Laramie, Wyoming",56021,96713,3.7
+"Lincoln, Wyoming",56023,18793,3.7
+"Natrona, Wyoming",56025,79823,4.5
+"Niobrara, Wyoming",56027,2422,2.7
+"Park, Wyoming",56029,28804,4.2
+"Platte, Wyoming",56031,8582,3.6
+"Sheridan, Wyoming",56033,29845,3.9
+"Sublette, Wyoming",56035,9951,4.1
+"Sweetwater, Wyoming",56037,43376,4
+"Teton, Wyoming",56039,22760,2.9
+"Uinta, Wyoming",56041,20250,4.2
+"Washakie, Wyoming",56043,8058,4.1
+"Weston, Wyoming",56045,6959,3.3
